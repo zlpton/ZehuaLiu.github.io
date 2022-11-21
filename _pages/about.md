@@ -20,7 +20,10 @@ News
 
 Selected Publications
 ======
-1. 
+1. Hongyang Du, Dusit Niyato, Yuanai Xie, Yanyu Cheng, Jiawen Kang, and Dong In Kim, "Performance Analysis and Optimization for Jammer-Aided Multi-Antenna UAV Covert Communication," IEEE Journal on Selected Areas in Communications (Impact Factor: 13.081), vol. 40, pp. 2962-2979, Oct, 2022.
+2. Hongyang Du, Jiayi Zhang, Ke Guan, Dusit Niyato, Huiying Jiao, Zhiqin Wang, and Thomas Kürner, "Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications," IEEE Transactions on Communications (Impact Factor: 6.166), vol. 70, pp. 3575-3593, May, 2022
+3. Hongyang Du, Jiayi Zhang, Julian Cheng, and Bo Ai, “Millimeter wave communications with reconfigurable intelligent surfaces: Performance analysis and optimization,” IEEE Transactions on Communications (Impact Factor: 6.166), vol. 69, no. 4, pp. 2752–2768, Apr. 2021.
+4. Wanting Yang, Hongyang Du, Ziqin Liew, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Xuefen Chi, Xuemin Sherman Shen, and Chunyan Miao. ["Semantic communications for 6G future internet: Fundamentals, applications, and challenges"](https://ieeexplore.ieee.org/document/9955312), IEEE Communications Surveys & Tutorials (Impact Factor: 33.84), Nov. 2022.
 
 Awards
 ======

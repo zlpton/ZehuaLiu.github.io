@@ -1,13 +1,9 @@
 ---
-title: "IEEE Daniel E. Noble Fellowship Award"
-excerpt: "Contribution to the profession of electrical engineering in mobile radio communications, with preference for public safety communications.<br/><img src='/images/VTS.jpg'>"
-collection: portfolio
+title: "Exemplary Reviewer of the IEEE TRANSACTIONS ON COMMUNICATIONS"
+excerpt: ""On behalf of the Editorial Board of the IEEE Transaction on Communications (TCOM), I would like to thank you for your exemplary reviews for our journal; you represent fewer than 2% of all our reviewers." -Tolga M. Duman, Editor-in-Chief of IEEE TCOM<br/><img src='/images/ReTCOM.jpg'>"
+collection: Awards
 ---
 
-Publications related to this award:
+Exemplary Reviewers in 2021:
 
-1. Hongyang Du, Dusit Niyato, Yuanai Xie, Yanyu Cheng, Jiawen Kang, and Dong In Kim, "Performance Analysis and Optimization for Jammer-Aided Multi-Antenna UAV Covert Communication," IEEE Journal on Selected Areas in Communications (Impact Factor: 13.081), vol. 40, pp. 2962-2979, Oct, 2022.
-2. Hongyang Du, Jiawen Kang, Dusit Niyato, Jiayi Zhang, and Dong In Kim. "Reconfigurable Intelligent Surface-Aided Joint Radar and Covert Communications: Fundamentals, Optimization, and Challenges." IEEE Vehicular Technology Magazine (Impact Factor: 13.609), vol. 17, no. 3, pp. 54-64, Mar, 2022.
-3. Jiawen Kang, Hongyang Du, Zonghang Li, Zehui Xiong, Shiyao Ma, Dusit Niyato, and Yuan Li. "Personalized Saliency-Based Task-Oriented Semantic Communications: Architecture Design and Performance Analysis." IEEE Journal on Selected Areas in Communications (Impact Factor: 13.081), to appear, 2022.
-4. Jiayi Zhang, Hongyang Du, Qiang Sun, Bo Ai, and Derrick Wing Kwan Ng, "Physical layer security enhancement with reconfigurable intelligent surface-aided networks," IEEE Transactions on Information Forensics and Security (Impact Factor: 7.231), vol. 16, pp. 3480-3495, May 2021.
-5. Hongyang Du, Jiayi Zhang, Kostas P. Peppas, Hui Zhao, Bo Ai and Xiaodan Zhang, "On the Distribution of the Ratio of Products of Fisher-Snedecor F Random Variables and Its Applications," IEEE Transactions on Vehicular Technology (Impact Factor: 6.239), vol. 69, no. 2, pp. 1855-1866, Feb. 2020.
+https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers

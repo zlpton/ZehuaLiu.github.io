@@ -1,7 +1,7 @@
 ---
 title: "IEEE Daniel E. Noble Fellowship Award"
 excerpt: "Contribution to the profession of electrical engineering in mobile radio communications, with preference for public safety communications.<br/><img src='/images/VTS.jpg'>"
-collection: portfolio
+collection: Awards
 ---
 
 Publications related to this award:

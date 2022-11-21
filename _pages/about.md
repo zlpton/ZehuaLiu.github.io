@@ -10,7 +10,7 @@ redirect_from:
 
 I am pursuing the Ph.D. degree with the School of Computer Science and Engineering, Energy Research Institute @ NTU, Nanyang Technological University, Singapore, under the Interdisciplinary Graduate Program, supervised by Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/). Before that, I received the B.Sc. degree from Beijing Jiaotong University, Beijing, China, in 2021, supervised by Prof. [Jiayi Zhang](http://faculty.bjtu.edu.cn/8946/).
 
-I now serve as the Editor-in-Chief Assistant of [IEEE Communications Surveys and Tutorials](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739) (IEEE COMST). In 2021, the impact factor of IEEE COMST reached 33.84, the highest in all IEEE journals/magazines. To further promote IEEE COMST, I am helping to run some social accounts, including Linkedin (@IEEE Communications Surveys And Tutorials), Twitter (@IEEECOMST), and WeChat Account (@IEEECOMST). Thanks for following!
+I now serve as the Editor-in-Chief Assistant of [IEEE Communications Surveys and Tutorials](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739) (IEEE COMST). In 2021, the impact factor of IEEE COMST reached 33.84, which is the highest one in all IEEE journals/magazines. To further promote IEEE COMST, I am helping to run some social accounts, including Linkedin (@IEEE Communications Surveys And Tutorials), Twitter (@IEEECOMST), and WeChat Account (@IEEECOMST). Thanks for following!
 
 My current research interests include, but are not limited to, semantic communications, resource allocation, and Metaverse. **If you're interested in cooperaing with me**, feel free to email me (hongyang001@e.ntu.edu.sg)! I am always happy to collaborate with smart minds ^_^!
 

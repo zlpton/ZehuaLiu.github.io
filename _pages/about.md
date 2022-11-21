@@ -12,11 +12,16 @@ I am pursuing the Ph.D. degree with the School of Computer Science and Engineeri
 
 I now serve as the Editor-in-Chief Assistant of [IEEE Communications Surveys and Tutorials](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739) (IEEE COMST). In 2021, the impact factor of IEEE COMST reached 33.84, which is the highest one in all IEEE journals/magazines. To further promote IEEE COMST, I am helping to run some social accounts, including Linkedin (@IEEE Communications Surveys And Tutorials), Twitter (@IEEECOMST), and WeChat Account (@IEEECOMST). Thanks for following!
 
-My current research interests include, but are not limited to, semantic communications, network resource allocation, and Metaverse. **If you're interested in cooperaing with me**, feel free to email me (hongyang001@e.ntu.edu.sg)! I am always happy to collaborate with smart minds ^_^!
+My current research interests include, but are not limited to, semantic communications, network resource allocation, and Metaverse. **If you are interested in cooperaing with me**, feel free to email me (hongyang001@e.ntu.edu.sg)! I am always happy to collaborate with smart minds ^_^!
 
 News
 ======
 1. [Nov/2022] Our paper titled ["Semantic communications for 6G future internet: Fundamentals, applications, and challenges"](https://ieeexplore.ieee.org/document/9955312) is accepted by IEEE COMST (IF: 33.84)!
+1. [Nov/2022] I am honored to receive the IEEE Daniel E. Nobel Fellowship Award!
+1. [Oct/2022] Our paper titled ["Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis"](https://arxiv.org/abs/2209.12274) is accepted by IEEE JSAC (IF: 13.08)!
+1. [Jun/2022] I visited [Chiang Mai University](https://www.cmu.ac.th/en/) in Thailand, hosted by Prof. [Maggie](https://scholar.google.com/citations?hl=zh-CN&user=iirwtGkAAAAJ). Very happy time!
+1. [Mar/2022] Our paper titled ["Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications"](https://ieeexplore.ieee.org/document/9743437/) is accepted by IEEE TCOM (IF: 13.08)! 
+1. [Feb/2022] Our paper titled ["Performance Analysis and Optimization for Jammer-Aided Multiantenna UAV Covert Communication"](https://ieeexplore.ieee.org/document/9849051) is accepted by IEEE JSAC (IF: 13.08)!
 
 Selected Publications
 ======
@@ -28,6 +33,6 @@ For all publications, please refer to my [google scholar](https://scholar.google
 
 Awards
 ======
-1. **IEEE Vehicular Technology Society** Daniel E. Nobel Fellowship Award, 2022
+1. IEEE Daniel E. Nobel Fellowship Award, from **IEEE Vehicular Technology Society**, 2022
 2. **Exemplary Reviewer** of the IEEE TRANSACTIONS ON COMMUNICATIONS, 2021
 3. **National Scholarship (China)** 2020 and 2018 

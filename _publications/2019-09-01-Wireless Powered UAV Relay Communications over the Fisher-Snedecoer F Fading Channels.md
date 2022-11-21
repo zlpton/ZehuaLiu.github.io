@@ -10,4 +10,4 @@ citation: 'Peng Zhang, Hongyang Du, Yiyu Cao, and Jiayi Zhang, “Wireless Power
 
 [Download paper here](https://ieeexplore.ieee.org/abstract/document/8891477/)
 
-Recommended citation: Peng Zhang, Hongyang Du, Yiyu Cao, and Jiayi Zhang, “Wireless Powered UAV Relay Communications over the Fisher-Snedecor F Fading Channels,” In 2019 IEEE 90th Vehicular Technology Conference (VTC2019-Fall), pp. 1-5, 2019.
+Recommended citation: Peng Zhang, Hongyang Du, Yiyu Cao, and Jiayi Zhang, "Wireless Powered UAV Relay Communications over the Fisher-Snedecor F Fading Channels," In 2019 IEEE 90th Vehicular Technology Conference (VTC2019-Fall), pp. 1-5, 2019.

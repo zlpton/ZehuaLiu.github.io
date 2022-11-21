@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Hongyang's website."
+title: "Hi, I am Hongyang..."
 excerpt: "About me"
 author_profile: true
 redirect_from: 

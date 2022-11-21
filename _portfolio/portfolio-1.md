@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/VTS.jpg'>"
+title: "IEEE Daniel E. Noble Fellowship Award"
+excerpt: "Contribution to the profession of electrical engineering in mobile radio communications, with preference for public safety communications.<br/><img src='/images/VTS.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Publications related to this award:
+
+1. Hongyang Du, Dusit Niyato, Yuanai Xie, Yanyu Cheng, Jiawen Kang, and Dong In Kim, "Performance Analysis and Optimization for Jammer-Aided Multi-Antenna UAV Covert Communication," IEEE Journal on Selected Areas in Communications (Impact Factor: 13.081), vol. 40, pp. 2962-2979, Oct, 2022.
+2. Hongyang Du, Jiawen Kang, Dusit Niyato, Jiayi Zhang, and Dong In Kim. "Reconfigurable Intelligent Surface-Aided Joint Radar and Covert Communications: Fundamentals, Optimization, and Challenges." IEEE Vehicular Technology Magazine (Impact Factor: 13.609), vol. 17, no. 3, pp. 54-64, Mar, 2022.
+3. Jiawen Kang, Hongyang Du, Zonghang Li, Zehui Xiong, Shiyao Ma, Dusit Niyato, and Yuan Li. "Personalized Saliency-Based Task-Oriented Semantic Communications: Architecture Design and Performance Analysis." IEEE Journal on Selected Areas in Communications (Impact Factor: 13.081), to appear, 2022.
+4. Jiayi Zhang, Hongyang Du, Qiang Sun, Bo Ai, and Derrick Wing Kwan Ng, "Physical layer security enhancement with reconfigurable intelligent surface-aided networks," IEEE Transactions on Information Forensics and Security (Impact Factor: 7.231), vol. 16, pp. 3480-3495, May 2021.
+5. Hongyang Du, Jiayi Zhang, Kostas P. Peppas, Hui Zhao, Bo Ai and Xiaodan Zhang, "On the Distribution of the Ratio of Products of Fisher-Snedecor F Random Variables and Its Applications," IEEE Transactions on Vehicular Technology (Impact Factor: 6.239), vol. 69, no. 2, pp. 1855-1866, Feb. 2020.

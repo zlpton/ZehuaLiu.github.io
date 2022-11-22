@@ -25,9 +25,15 @@ Experience
   * Mentor: Prof. [Jiayi Zhang](Web: https://sites.google.com/site/jiayizhang8650)
 
 
-Publications
+Published Papers
 ======
   <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Submitted Papers
+======
+  <ul>{% for post in site.submitted %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   

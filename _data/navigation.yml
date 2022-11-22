@@ -1,11 +1,12 @@
 # main links links
 main:
-  - title: "Submitted"
-    url: /submitted/
 
   - title: "Publications"
     url: /publications/
-    
+
+  - title: "Submitted"
+    url: /submitted/
+
   - title: "Awards"
     url: /portfolio/
         

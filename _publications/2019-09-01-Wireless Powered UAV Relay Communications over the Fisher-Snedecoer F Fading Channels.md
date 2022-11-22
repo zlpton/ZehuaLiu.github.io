@@ -1,6 +1,6 @@
 ---
 title: "Wireless Powered UAV Relay Communications over the Fisher-Snedecoer F Fading Channels"
-collection: publications
+collection: conferences
 permalink: /publication/2019-09-01-Wireless Powered UAV Relay Communications over the Fisher-Snedecoer F Fading Channels
 date: 2019-5-1
 venue: 'IEEE VTC2019-Fall'

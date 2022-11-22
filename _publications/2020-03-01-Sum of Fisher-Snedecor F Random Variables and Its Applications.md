@@ -8,6 +8,6 @@ paperurl: 'https://ieeexplore.ieee.org/document/9044870'
 citation: 'Hongyang Du, Jiayi Zhang, Julian Cheng, and Bo Ai, "Sum of Fisher-Snedecor F Random Variables and Its Applications," <i>IEEE Open Journal of the Communications Society</i>, vol. 1, pp. 342–356, Mar. 2020.'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://hongyangdu.github.io/files/Du et al_2020_Sum of Fisher-Snedecor F Random Variables and Its Applications.pdf)
 
 Recommended citation: Hongyang Du, Jiayi Zhang, Julian Cheng, and Bo Ai, "Sum of Fisher-Snedecor F Random Variables and Its Applications," <i>IEEE Open Journal of the Communications Society</i>, vol. 1, pp. 342–356, Mar. 2020.

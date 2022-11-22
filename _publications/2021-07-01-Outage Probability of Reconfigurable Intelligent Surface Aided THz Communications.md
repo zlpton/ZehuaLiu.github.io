@@ -1,6 +1,6 @@
 ---
 title: "Outage Probability of Reconfigurable Intelligent Surface Aided THz Communications"
-collection: publications
+collection: confs
 permalink: /publication/2021-07-01-Outage Probability of Reconfigurable Intelligent Surface Aided THz Communications
 date: 2021-07-01
 venue: 'IEEE/CIC International Conference on Communications in China (ICCC)'

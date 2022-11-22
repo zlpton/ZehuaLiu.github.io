@@ -2,7 +2,6 @@
 title: "Sum of Fisher-Snedecor F Random Variables and Its Applications"
 collection: publications
 permalink: /publication/2020-03-01-Sum of Fisher-Snedecor F Random Variables and Its Applications
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2020-03-01
 venue: 'IEEE Open Journal of the Communications Society'
 paperurl: 'https://ieeexplore.ieee.org/document/9044870'

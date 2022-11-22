@@ -16,21 +16,24 @@ My current research interests include, but are not limited to, semantic communic
 
 News
 ======
-1. [Nov/2022] Our paper titled ["Semantic communications for 6G future internet: Fundamentals, applications, and challenges"](https://ieeexplore.ieee.org/document/9955312) is accepted by IEEE COMST (IF: 33.84)!
+1. [Nov/2022] Our paper titled ["Semantic Communications for Future Internet: Fundamentals, Applications, and Challenges"](https://ieeexplore.ieee.org/document/9955312) is accepted by IEEE COMST (IF: 33.84)!
 1. [Nov/2022] I am honored to receive the IEEE Daniel E. Nobel Fellowship Award!
 1. [Oct/2022] Our paper titled ["Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis"](https://arxiv.org/abs/2209.12274) is accepted by IEEE JSAC (IF: 13.08)!
 1. [Jun/2022] I visited [Chiang Mai University](https://www.cmu.ac.th/en/) in Thailand, hosted by Prof. [Maggie](https://scholar.google.com/citations?hl=zh-CN&user=iirwtGkAAAAJ). Very happy time!
 1. [Mar/2022] Our paper titled ["Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications"](https://ieeexplore.ieee.org/document/9743437/) is accepted by IEEE TCOM (IF: 13.08)! 
 1. [Feb/2022] Our paper titled ["Performance Analysis and Optimization for Jammer-Aided Multiantenna UAV Covert Communication"](https://ieeexplore.ieee.org/document/9849051) is accepted by IEEE JSAC (IF: 13.08)!
+1. [Aug/2021] I joined the School of Computer Science and Engineering, Nanyang Technological University (NTU) as a Ph.D. student. A new journey began!
 
 Selected Publications
 ======
 For all publications, please refer to my [google scholar](https://scholar.google.com/citations?user=QI3vo-YAAAAJ&hl=en&oi=ao)
-1. Hongyang Du, Dusit Niyato, Yuanai Xie, Yanyu Cheng, Jiawen Kang, and Dong In Kim, "Performance Analysis and Optimization for Jammer-Aided Multi-Antenna UAV Covert Communication," IEEE Journal on Selected Areas in Communications (Impact Factor: 13.081), vol. 40, pp. 2962-2979, Oct, 2022.
-<font color=Blue>The first study that analyzes a jammer-aided UAV covert communication system over composite fading and shadowing with accurate and tractable generalized channel models. To maximize the user's covert rate with limited transmit and jamming power, the optimization problem is formulated as a Nash bargaining game (NBG) with the help of the derived performance metrics.</font>
+1. Hongyang Du, Dusit Niyato, Yuanai Xie, Yanyu Cheng, Jiawen Kang, and Dong In Kim, ["Performance Analysis and Optimization for Jammer-Aided Multi-Antenna UAV Covert Communication,"](https://ieeexplore.ieee.org/document/9849051) IEEE Journal on Selected Areas in Communications (Impact Factor: 13.081), vol. 40, pp. 2962-2979, Oct, 2022.
+<font color=#008000>The first study that analyzes a jammer-aided UAV covert communication system over composite fading and shadowing with accurate and tractable generalized channel models.</font>
 2. Hongyang Du, Jiayi Zhang, Ke Guan, Dusit Niyato, Huiying Jiao, Zhiqin Wang, and Thomas Kürner, "Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications," IEEE Transactions on Communications (Impact Factor: 6.166), vol. 70, pp. 3575-3593, May, 2022
-3. Hongyang Du, Jiayi Zhang, Julian Cheng, and Bo Ai, “Millimeter wave communications with reconfigurable intelligent surfaces: Performance analysis and optimization,” IEEE Transactions on Communications (Impact Factor: 6.166), vol. 69, no. 4, pp. 2752–2768, Apr. 2021.
-4. Wanting Yang, Hongyang Du, Ziqin Liew, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Xuefen Chi, Xuemin Sherman Shen, and Chunyan Miao. ["Semantic communications for 6G future internet: Fundamentals, applications, and challenges"](https://ieeexplore.ieee.org/document/9955312), IEEE Communications Surveys & Tutorials (Impact Factor: 33.84), Nov. 2022.
+<font color=#008000>We first prove that the small-scale amplitude fading of THz signals can be accurately modeled by the fluctuating two-ray distribution based on two THz signal measurement experiments conducted in a variety of different scenarios.</font>
+3. Hongyang Du, Jiayi Zhang, Julian Cheng, and Bo Ai, ["Millimeter wave communications with reconfigurable intelligent surfaces: Performance analysis and optimization,"](https://ieeexplore.ieee.org/document/9324795/) IEEE Transactions on Communications (Impact Factor: 6.166), vol. 69, no. 4, pp. 2752–2768, Apr. 2021.
+<font color=#008000></font>
+4. Wanting Yang, Hongyang Du, Ziqin Liew, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Xuefen Chi, Xuemin Sherman Shen, and Chunyan Miao. ["Semantic Communications for Future Internet: Fundamentals, Applications, and Challenges"](https://ieeexplore.ieee.org/document/9955312), IEEE Communications Surveys & Tutorials (Impact Factor: 33.84), Nov. 2022.
 
 Awards
 ======

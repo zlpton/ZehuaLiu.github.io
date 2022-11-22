@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Published Papers"
-permalink: /publications/
+title: "Submitted Papers"
+permalink: /submitted/
 author_profile: true
 ---
 

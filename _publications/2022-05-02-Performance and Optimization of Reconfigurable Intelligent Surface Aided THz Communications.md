@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2022-05-02-Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications
+date: 2022-05-02
+venue: 'IEEE Transactions on Communications'
+paperurl: 'https://ieeexplore.ieee.org/document/9743437'
+citation: 'Hongyang Du, Jiayi Zhang, Ke Guan, Dusit Niyato, Huiying Jiao, Zhiqin Wang, and Thomas Kürner, "Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications," <i>IEEE Transactions on Communications</i> (Impact Factor: 6.166), vol. 70, pp. 3575-3593, May, 2022'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://arxiv.org/pdf/2012.00267)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Hongyang Du, Jiayi Zhang, Ke Guan, Dusit Niyato, Huiying Jiao, Zhiqin Wang, and Thomas Kürner, "Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications," <i>IEEE Transactions on Communications</i> (Impact Factor: 6.166), vol. 70, pp. 3575-3593, May, 2022

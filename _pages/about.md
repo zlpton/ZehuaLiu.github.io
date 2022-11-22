@@ -28,11 +28,11 @@ Selected Publications
 ======
 **For all publications, please refer to my [google scholar](https://scholar.google.com/citations?user=QI3vo-YAAAAJ&hl=en&oi=ao).**
 1. Wanting Yang, Hongyang Du, Ziqin Liew, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Xuefen Chi, Xuemin Sherman Shen, and Chunyan Miao. ["Semantic Communications for Future Internet: Fundamentals, Applications, and Challenges"](https://ieeexplore.ieee.org/document/9955312), IEEE Communications Surveys & Tutorials (Impact Factor: 33.84), Nov. 2022.
-<font color=blue>A comprehensive survey of semantic communications for 6G network.</font>
+<font color=green>A comprehensive survey of semantic communications for 6G network.</font>
 1. Hongyang Du, Dusit Niyato, Yuanai Xie, Yanyu Cheng, Jiawen Kang, and Dong In Kim, ["Performance Analysis and Optimization for Jammer-Aided Multi-Antenna UAV Covert Communication,"](https://ieeexplore.ieee.org/document/9849051) IEEE Journal on Selected Areas in Communications (Impact Factor: 13.081), vol. 40, pp. 2962-2979, Oct, 2022.
-<font color=blue>The first study that analyzes a jammer-aided UAV covert communication system over composite fading and shadowing with accurate and tractable generalized channel models.</font>
+<font color=green>The first study that analyzes a jammer-aided UAV covert communication system over composite fading and shadowing with accurate and tractable generalized channel models.</font>
 1. Hongyang Du, Jiayi Zhang, Ke Guan, Dusit Niyato, Huiying Jiao, Zhiqin Wang, and Thomas Kürner, "Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications," IEEE Transactions on Communications (Impact Factor: 6.166), vol. 70, pp. 3575-3593, May, 2022
-<font color=red>We first prove that the small-scale amplitude fading of THz signals can be accurately modeled by the fluctuating two-ray distribution based on two THz signal measurement experiments conducted in a variety of different scenarios.</font>
+<font color=green>We first prove that the small-scale amplitude fading of THz signals can be accurately modeled by the fluctuating two-ray distribution based on two THz signal measurement experiments conducted in a variety of different scenarios.</font>
 1. Hongyang Du, Jiayi Zhang, Julian Cheng, and Bo Ai, ["Millimeter wave communications with reconfigurable intelligent surfaces: Performance analysis and optimization,"](https://ieeexplore.ieee.org/document/9324795/) IEEE Transactions on Communications (Impact Factor: 6.166), vol. 69, no. 4, pp. 2752–2768, Apr. 2021.
 <font color=green>We made a comprehensive comparison between the RIS-aided and AF relay systems over realistic mmWave channels.</font>
 

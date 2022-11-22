@@ -1,7 +1,7 @@
 ---
 title: "Personalized Saliency-Based Task-Oriented Semantic Communications: Architecture Design and Performance Analysis"
 collection: publications
-permalink: /publication/2022-03-01-Personalized Saliency-Based Task-Oriented Semantic Communications: Architecture Design and Performance Analysis
+permalink: /publication/2022-03-01-Personalized Saliency-Based Task-Oriented Semantic Communications Architecture Design and Performance
 date: 2022-03-01
 venue: 'IEEE Journal on Selected Areas in Communications'
 paperurl: 'https://arxiv.org/abs/2209.12274'

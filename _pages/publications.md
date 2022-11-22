@@ -18,7 +18,7 @@ author_profile: true
 ---
 layout: archive
 title: "Conferences"
-permalink: /publications/
+permalink: /conferences/
 author_profile: true
 ---
 

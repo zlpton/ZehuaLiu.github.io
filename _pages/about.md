@@ -12,7 +12,7 @@ I am pursuing the Ph.D. degree with the School of Computer Science and Engineeri
 
 I now serve as the Editor-in-Chief Assistant of [IEEE Communications Surveys and Tutorials](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739) (IEEE COMST). In 2021, the impact factor of IEEE COMST reached 33.84, which is the highest one in all IEEE journals/magazines. To further promote IEEE COMST, I am helping to run some social accounts, including Linkedin (@IEEE Communications Surveys And Tutorials), Twitter (@IEEECOMST), and WeChat Account (@IEEECOMST). Thanks for following!
 
-My current research interests include, but are not limited to, semantic communications, network resource allocation, and Metaverse. **If you are interested in cooperaing with me**, feel free to email me (hongyang001@e.ntu.edu.sg)! I am always happy to collaborate with smart minds ^_^!
+My current research interests include, but are not limited to, Semantic Communications, Network Resource Allocation, AI, and Metaverse. **If you are interested in cooperating with me**, feel free to email me (hongyang001@e.ntu.edu.sg)! I am always happy to collaborate with smart minds ^_^!
 
 News
 ======
@@ -27,14 +27,14 @@ News
 Selected Publications
 ======
 <font color=blue>For all publications, please refer to my [google scholar](https://scholar.google.com/citations?user=QI3vo-YAAAAJ&hl=en&oi=ao).</font>
+1. Wanting Yang, Hongyang Du, Ziqin Liew, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Xuefen Chi, Xuemin Sherman Shen, and Chunyan Miao. ["Semantic Communications for Future Internet: Fundamentals, Applications, and Challenges"](https://ieeexplore.ieee.org/document/9955312), IEEE Communications Surveys & Tutorials (Impact Factor: 33.84), Nov. 2022.
+<font color=#008000>A comprehensive survey of semantic communications for 6G network.</font>
 1. Hongyang Du, Dusit Niyato, Yuanai Xie, Yanyu Cheng, Jiawen Kang, and Dong In Kim, ["Performance Analysis and Optimization for Jammer-Aided Multi-Antenna UAV Covert Communication,"](https://ieeexplore.ieee.org/document/9849051) IEEE Journal on Selected Areas in Communications (Impact Factor: 13.081), vol. 40, pp. 2962-2979, Oct, 2022.
 <font color=#008000>The first study that analyzes a jammer-aided UAV covert communication system over composite fading and shadowing with accurate and tractable generalized channel models.</font>
-2. Hongyang Du, Jiayi Zhang, Ke Guan, Dusit Niyato, Huiying Jiao, Zhiqin Wang, and Thomas Kürner, "Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications," IEEE Transactions on Communications (Impact Factor: 6.166), vol. 70, pp. 3575-3593, May, 2022
+1. Hongyang Du, Jiayi Zhang, Ke Guan, Dusit Niyato, Huiying Jiao, Zhiqin Wang, and Thomas Kürner, "Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications," IEEE Transactions on Communications (Impact Factor: 6.166), vol. 70, pp. 3575-3593, May, 2022
 <font color=#008000>We first prove that the small-scale amplitude fading of THz signals can be accurately modeled by the fluctuating two-ray distribution based on two THz signal measurement experiments conducted in a variety of different scenarios.</font>
-3. Hongyang Du, Jiayi Zhang, Julian Cheng, and Bo Ai, ["Millimeter wave communications with reconfigurable intelligent surfaces: Performance analysis and optimization,"](https://ieeexplore.ieee.org/document/9324795/) IEEE Transactions on Communications (Impact Factor: 6.166), vol. 69, no. 4, pp. 2752–2768, Apr. 2021.
+1. Hongyang Du, Jiayi Zhang, Julian Cheng, and Bo Ai, ["Millimeter wave communications with reconfigurable intelligent surfaces: Performance analysis and optimization,"](https://ieeexplore.ieee.org/document/9324795/) IEEE Transactions on Communications (Impact Factor: 6.166), vol. 69, no. 4, pp. 2752–2768, Apr. 2021.
 <font color=#008000>We made a comprehensive comparison between the RIS-aided and AF relay systems over realistic mmWave channels.</font>
-4. Wanting Yang, Hongyang Du, Ziqin Liew, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Xuefen Chi, Xuemin Sherman Shen, and Chunyan Miao. ["Semantic Communications for Future Internet: Fundamentals, Applications, and Challenges"](https://ieeexplore.ieee.org/document/9955312), IEEE Communications Surveys & Tutorials (Impact Factor: 33.84), Nov. 2022.
-<font color=#008000>A comprehensive survey of semantic communications for 6G network.</font>
 
 Awards
 ======

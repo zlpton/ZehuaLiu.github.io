@@ -16,12 +16,12 @@ My current research interests include, but are not limited to, Semantic Communic
 
 News
 ======
-1. [Nov/2022] Our paper titled ["Semantic Communications for Future Internet: Fundamentals, Applications, and Challenges"](https://ieeexplore.ieee.org/document/9955312) is accepted by IEEE COMST (IF: 33.84)!
+1. [Nov/2022] Our paper titled ["Semantic Communications for Future Internet: Fundamentals, Applications, and Challenges"](https://hongyangdu.github.io/files/Yang et al_2022_Semantic Communications for Future Internet.pdf) is accepted by IEEE COMST (IF: 33.84)!
 1. [Nov/2022] I am honored to receive the IEEE Daniel E. Nobel Fellowship Award!
-1. [Oct/2022] Our paper titled ["Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis"](https://arxiv.org/abs/2209.12274) is accepted by IEEE JSAC (IF: 13.08)!
+1. [Oct/2022] Our paper titled ["Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis"](https://hongyangdu.github.io/files/Kang et al_2022_Personalized Saliency in Task-Oriented Semantic Communications.pdf) is accepted by IEEE JSAC (IF: 13.08)!
 1. [Jun/2022] I visited [Chiang Mai University](https://www.cmu.ac.th/en/) in Thailand, hosted by Prof. [Maggie](https://scholar.google.com/citations?hl=zh-CN&user=iirwtGkAAAAJ). Very happy time!
 1. [Mar/2022] Our paper titled ["Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications"](http://hongyangdu.github.io/files/Du et al_2022_Performance and Optimization of Reconfigurable Intelligent Surface Aided THz.pdf) is accepted by IEEE TCOM (IF: 13.08)! 
-1. [Feb/2022] Our paper titled ["Performance Analysis and Optimization for Jammer-Aided Multiantenna UAV Covert Communication"](https://ieeexplore.ieee.org/document/9849051) is accepted by IEEE JSAC (IF: 13.08)!
+1. [Feb/2022] Our paper titled ["Performance Analysis and Optimization for Jammer-Aided Multiantenna UAV Covert Communication"](https://hongyangdu.github.io/files/Du et al_Performance Analysis and Optimization for Jammer-Aided Multi-Antenna UAV Covert.pdf) is accepted by IEEE JSAC (IF: 13.08)!
 1. [Jan/2022] I am honored to be recognized as the Exemplary Reviewer of the IEEE TCOM, 2021!
 1. [Aug/2021] I joined the School of Computer Science and Engineering, Nanyang Technological University (NTU) as a Ph.D. student. A new journey began!
 

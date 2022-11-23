@@ -9,3 +9,5 @@ citation: 'Lin, Yijing, Zhipeng Gao, Hongyang Du, Dusit Niyato, Jiawen Kang, Rui
 ---
 
 [Download paper here](http://hongyangdu.github.io/files/Lin et al_2022_A Unified Blockchain-Semantic Framework for Wireless Edge Intelligence Enabled.pdf)
+
+Recommended citation: Lin, Yijing, Zhipeng Gao, Hongyang Du, Dusit Niyato, Jiawen Kang, Ruilong Deng, and Xuemin Sherman Shen. "A Unified Blockchain-Semantic Framework for Wireless Edge Intelligence Enabled Web 3.0." arXiv preprint arXiv:2210.15130 (2022).

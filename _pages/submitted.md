@@ -1,5 +1,5 @@
 ---
-layout: archive2
+layout: archive
 title: "Submitted Papers"
 permalink: /submitted/
 author_profile: true

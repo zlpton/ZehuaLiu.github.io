@@ -20,7 +20,7 @@ News
 1. [Nov/2022] I am honored to receive the IEEE Daniel E. Nobel Fellowship Award!
 1. [Oct/2022] Our paper titled ["Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis"](https://arxiv.org/abs/2209.12274) is accepted by IEEE JSAC (IF: 13.08)!
 1. [Jun/2022] I visited [Chiang Mai University](https://www.cmu.ac.th/en/) in Thailand, hosted by Prof. [Maggie](https://scholar.google.com/citations?hl=zh-CN&user=iirwtGkAAAAJ). Very happy time!
-1. [Mar/2022] Our paper titled ["Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications"](https://ieeexplore.ieee.org/document/9743437/) is accepted by IEEE TCOM (IF: 13.08)! 
+1. [Mar/2022] Our paper titled ["Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications"](http://hongyangdu.github.io/files/Du et al_2022_Performance and Optimization of Reconfigurable Intelligent Surface Aided THz.pdf) is accepted by IEEE TCOM (IF: 13.08)! 
 1. [Feb/2022] Our paper titled ["Performance Analysis and Optimization for Jammer-Aided Multiantenna UAV Covert Communication"](https://ieeexplore.ieee.org/document/9849051) is accepted by IEEE JSAC (IF: 13.08)!
 1. [Jan/2022] I am honored to be recognized as the Exemplary Reviewer of the IEEE TCOM, 2021!
 1. [Aug/2021] I joined the School of Computer Science and Engineering, Nanyang Technological University (NTU) as a Ph.D. student. A new journey began!

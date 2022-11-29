@@ -42,16 +42,3 @@ Awards
 2. **Exemplary Reviewer** of the IEEE TRANSACTIONS ON COMMUNICATIONS, 2021
 3. **National Scholarship (China)** 2020 and 2018 
 
-
-
-
-          /\
-         /**\
-        /****\   /\
-       /      \ /**\
-      /  /\    /    \        /\    /\      /\
-     /  /  \  /      \      /  \/\/  \    /  \/\                           -------- __@
-    /  /    \/ /\     \    /    \ \   \  /   /  \       LIFE IS SHORT      ----- _`\<,_
-   /  /      \/  \/\   \  /      \     \         \      KEEP FORWARD         ---- (*)/ (*)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-

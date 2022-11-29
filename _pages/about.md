@@ -12,7 +12,7 @@ I am pursuing the Ph.D. degree with the School of Computer Science and Engineeri
 
 I now serve as the Editor-in-Chief Assistant of [IEEE Communications Surveys and Tutorials](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739) (IEEE COMST). In 2021, the impact factor of IEEE COMST reached 33.84, which is the highest one in all IEEE journals/magazines. To further promote IEEE COMST, I am helping to run some social accounts, including Linkedin (@IEEE Communications Surveys And Tutorials), Twitter (@IEEECOMST), and WeChat Account (@IEEECOMST). Thanks for following!
 
-My current research interests include, but are not limited to, Semantic Communications, Integrated Sensing And Communications, AI, and Metaverse. **If you are interested in cooperating with me**, feel free to email me (hongyang001@e.ntu.edu.sg)! I am always happy to collaborate with smart minds ^_^!
+My current research interests include, but are not limited to, Semantic Communications, Integrated Sensing And Communications, AI, and Metaverse. **If you are interested in cooperating with me**, feel free to email me (hongyang001@e.ntu.edu.sg)! I am always happy to discuss with / learn from smart minds ^_^!
 
 News
 ======

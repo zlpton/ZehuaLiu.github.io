@@ -126,7 +126,7 @@
                             <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
                             {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}
                         </strong>
-						<b>{{ post.venue, }}</b>
+						<b>{{ post.venue}}</b>
                         <time datetime="{{ post.date | default: '1900-01-01' | date_to_xmlschema }}">
                             {{ post.date | default: "1900-01-01" | date: ", %B, %Y" }}
                         </time>
@@ -137,7 +137,7 @@
                             <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
                             {{ site.data.ui-text[site.locale].date_label | default: "Uploaded:" }}
                         </strong>
-						<b>{{ Arxiv, }}</b>
+						<b>{{ Arxiv}}</b>
                         <time datetime="{{ post.date | default: '1900-01-01' | date_to_xmlschema }}">
                             {{ post.date | default: "1900-01-01" | date: ", %B, %Y" }}
                         </time>

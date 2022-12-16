@@ -1,5 +1,6 @@
 ---
 title: "Exploring Attention-Aware Network Resource Allocation for Customized Metaverse Services"
+excerpt: "To make efficient use of network resources and improve the Quality-of-Experience (QoE), we design an attention-aware network resource allocation scheme to achieve customized Metaverse services. The aim is to allocate more network resources to virtual objects in which users are more interested."
 collection: publications
 permalink: /publications/2022-11-01-Exploring attention-aware network resource allocation for customized metaverse services
 date: 2022-11-01

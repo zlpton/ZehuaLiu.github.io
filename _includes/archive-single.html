@@ -128,7 +128,7 @@
                         </strong>
 						<b>{{ post.venue}}</b>
                         <time datetime="{{ post.date | default: '1900-01-01' | date_to_xmlschema }}">
-                            {{ post.date | default: "1900-01-01" | date: ", %B, %Y" }}
+                            {{post.date | default: "1900-01-01" | date: ", %B, %Y" }}
                         </time>
                     </p>
                 {% elsif post.date %}
@@ -139,7 +139,7 @@
                         </strong>
 						{{ post.venue}}
                         <time datetime="{{ post.date | default: '1900-01-01' | date_to_xmlschema }}">
-                            {{ post.date | default: "1900-01-01" | date: ", %B, %Y" }}
+                            {{post.date | default: "1900-01-01" | date: ", %B, %Y" }}
                         </time>
                     </p>
                 {% endif %}

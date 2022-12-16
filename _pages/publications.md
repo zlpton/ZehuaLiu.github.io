@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+Please click on the paper title to view its short summary.
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}

@@ -3,7 +3,7 @@ title: "Exploring Attention-Aware Network Resource Allocation for Customized Met
 collection: submitted
 permalink: /submitted/2022-11-01-Exploring attention-aware network resource allocation for customized metaverse services
 date: 2022-11-01
-venue: 'IEEE Network <br/><img src='/images/papers/Exploring.png'>'
+venue: 'IEEE Network'
 paperurl: 'https://arxiv.org/abs/2208.00369'
 thumbnail: /images/papers/Exploring.png
 citation: 'Hongyang Du, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Xuemin (Sherman) Shen, and Dong In Kim. "Exploring attention-aware network resource allocation for customized metaverse services.", to appear, IEEE Network, 2022.'
@@ -15,6 +15,6 @@ citation: 'Hongyang Du, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, X
 
 **Index Terms**: Metaverse, network resource allocation, graph neural network, attention mechanism, quality of experience 
 
-<br/><img src='/images/papers/Exploring.png'>
+<br/><img src='/images/papers/Exploring.png' width = "500">
 
 Recommended citation: **Hongyang Du**, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Xuemin (Sherman) Shen, and Dong In Kim. "Exploring attention-aware network resource allocation for customized metaverse services.", to appear, IEEE Network, 2022.

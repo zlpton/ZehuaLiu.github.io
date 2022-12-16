@@ -19,10 +19,13 @@ citation: 'Hongyang Du, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, X
 **Index Terms**: Metaverse, network resource allocation, graph neural network, attention mechanism, quality of experience 
 
 <br/><img src='/images/papers/Exploring.png' width = "700">
+
 Fig. 1: Structure of the article.
 
 <br/><img src='/images/papers/dataset.png' width = "700">
+
 Fig. 2: Some examples in our proposed user-object-attention level dataset for different types of customized Metaverse services research.
 
 <br/><img src='/images/papers/usertest.png' width = "700">
+
 Fig. 5: The QoE of 30 Metaverse users, with uniform and attention-aware rendering capacity allocation schemes and the upper bound.

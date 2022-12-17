@@ -6,7 +6,7 @@ permalink: /publication/2022-05-02-Reconfigurable Intelligent Surface-Aided Join
 date: 2022-05-02
 venue: 'IEEE Vehicular Technology Magazine'
 paperurl: 'https://ieeexplore.ieee.org/document/9768334'
-thumbnail: /images/papers/vtmtable.png
+thumbnail: /images/papers/jrc.png
 citation: 'Hongyang Du, Jiawen Kang, Dusit Niyato, Jiayi Zhang, and Dong In Kim. "Reconfigurable Intelligent Surface-Aided Joint Radar and Covert Communications: Fundamentals, Optimization, and Challenges." <i>IEEE Vehicular Technology Magazine</i>, vol. 17, pp. 54-64, Mar., 2022'
 ---
 

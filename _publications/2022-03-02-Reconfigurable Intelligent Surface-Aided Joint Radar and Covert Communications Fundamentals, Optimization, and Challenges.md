@@ -1,6 +1,6 @@
 ---
 title: "Reconfigurable Intelligent Surface-Aided Joint Radar and Covert Communications: Fundamentals, Optimization, and Challenges"
-excerpt: "We apply covert communication into the joint radar and communication system and propose a joint radar and covert communication (JRCC) system to achieve high spectrum utilization and secure data transmission simultaneously. However, the performance of JRCC is restricted by severe signal propagation environment and hardware devices. Fortunately, reconfigurable intelligent surfaces (RISs) can change the signal propagation smartly to improve the networks performance with low cost. We first overview fundamental concepts of JRCC and RIS and then propose the RIS-aided JRCC system design."
+excerpt: "We apply covert communication into the joint radar and communication system and propose a joint radar and covert communication (JRCC) system to achieve high spectrum utilization and secure data transmission simultaneously. Considering that the reconfigurable intelligent surfaces (RISs) can change the signal propagation smartly to improve the networks performance with low cost, we then overview fundamental concepts of JRCC and RIS and propose the RIS-aided JRCC system design."
 collection: publications
 permalink: /publication/2022-05-02-Reconfigurable Intelligent Surface-Aided Joint Radar and Covert Communications Fundamentals, Optimization, and Challenges
 date: 2022-05-02

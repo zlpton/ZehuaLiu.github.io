@@ -16,7 +16,6 @@ citation: 'Hongyang Du, Dusit Niyato, Yuanai Xie, Yanyu Cheng, Jiawen Kang, and 
 
 **Index Terms**: Covert communication, multi-antenna UAV, performance analysis, optimization, Bargaining game.
 
-
 <br/><img src='/images/papers/1jsacmodel.png' width = "700">
 
 Fig. 1: A jammer-aided multi-antenna UAV covert communication system.

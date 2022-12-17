@@ -10,7 +10,7 @@ thumbnail: /images/papers/covuav.png
 citation: 'Hongyang Du, Dusit Niyato, Yuan-ai Xie, Yanyu Cheng, Jiawen Kang, and Dong In Kim. "Covert Communication for Jammer-aided Multi-Antenna UAV Networks." <i>In IEEE International Conference on Communications (ICC)</i>, pp. 91-96., 2022.'
 ---
 
-[Download paper here](https://ieeexplore.ieee.org/document/9838318)
+[Download paper here](https://hongyangdu.github.io/files/Du et al_Covert Communication for Jammer-aided Multi-Antenna UAV Networks.pdf)
 
 **Abstract**: Unmanned aerial vehicles (UAVs) have attracted a lot of research attention in serving as aerial base stations (BSs). To protect the data privacy without being detected by a warden, we investigate a jammer-aided UAV covert communication system, aiming to maximize the user’s covert rate with optimized transmit and jamming power. By considering the general composite fading and shadowing channel models, we derive the closedform expressions for detection error probability and covert rate. The covert rate maximization problem is formulated as a Nash bargaining game, and the Nash bargaining solution (NBS) is introduced. To solve the NBS, we propose a particle swarm optimization-based power allocation algorithm. The numerical results are presented to verify the theoretical analysis.
 

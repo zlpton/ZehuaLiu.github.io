@@ -1,12 +1,12 @@
 ---
 title: "Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications"
-excerpt: "We investigate the RIS-aided THz communications. We first prove that the small-scale amplitude fading of THz signals can be accurately modeled by the fluctuating two-ray distribution based on two THz signal measurement experiments conducted in a variety of different scenarios. To optimize the phase-shifts at the RIS elements, we propose a novel swarm intelligence-based method that does not require full channel estimation. We then derive exact statistical characterizations of end-to-end signal-to-noise plus distortion ratio (SNDR) and signal-to-noise ratio (SNR)."
+excerpt: "We investigate the RIS-aided THz communications. We first prove that the small-scale amplitude fading of THz signals can be accurately modeled by the fluctuating two-ray distribution based on two THz signal measurement experiments conducted in a variety of different scenarios. To optimize the phase-shifts at the RIS elements, we propose a novel swarm intelligence-based method that does not require full channel estimation."
 collection: publications
 permalink: /publication/2022-05-02-Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications
 date: 2022-05-02
 venue: 'IEEE Transactions on Communications'
 paperurl: 'https://ieeexplore.ieee.org/document/9743437'
-thumbnail: /images/papers/thzris.png
+thumbnail: /images/papers/thzris2.png
 citation: 'Hongyang Du, Jiayi Zhang, Ke Guan, Dusit Niyato, Huiying Jiao, Zhiqin Wang, and Thomas Kürner, "Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications," <i>IEEE Transactions on Communications</i>, vol. 70, pp. 3575-3593, May, 2022'
 ---
 

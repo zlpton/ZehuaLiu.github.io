@@ -1,6 +1,6 @@
 ---
 title: "Covert Communication for Jammer-aided Multi-Antenna UAV Networks"
-excerpt: "We apply covert communication into the joint radar and communication system and propose a joint radar and covert communication (JRCC) system to achieve high spectrum utilization and secure data transmission simultaneously. However, the performance of JRCC is restricted by severe signal propagation environment and hardware devices. Fortunately, reconfigurable intelligent surfaces (RISs) can change the signal propagation smartly to improve the networks performance with low cost. We first overview fundamental concepts of JRCC and RIS and then propose the RIS-aided JRCC system design."
+excerpt: "We investigate a jammer-aided UAV covert communication system, aiming to maximize the user’s covert rate with optimized transmit and jamming power."
 collection: publications
 permalink: /publication/2022-05-01-Covert Communication for Jammer-aided Multi-Antenna UAV Networks
 date: 2022-05-01

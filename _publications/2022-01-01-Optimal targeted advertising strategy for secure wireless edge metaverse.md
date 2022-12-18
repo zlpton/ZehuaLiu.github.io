@@ -1,6 +1,6 @@
 ---
 title: "Optimal targeted advertising strategy for secure wireless edge metaverse"
-excerpt: "We investigate the RIS-aided THz communications. We first prove that the small-scale amplitude fading of THz signals can be accurately modeled by the fluctuating two-ray distribution based on two THz signal measurement experiments conducted in a variety of different scenarios. To optimize the phase-shifts at the RIS elements, we propose a novel swarm intelligence-based method that does not require full channel estimation."
+excerpt: "we design a privacy preserving targeted advertising strategy for the wireless edge Metaverse. Specifically, a Metaverse service provider (MSP) allocates bandwidth to the VR users so that the users can access Metaverse from edge access points. To protect users’ privacy, the covert communication technique is used in the downlink. Then, the MSP can offer high-quality access services to earn more profits."
 collection: publications
 permalink: /publication/2022-01-01-Optimal targeted advertising strategy for secure wireless edge metaverse
 date: 2022-01-01

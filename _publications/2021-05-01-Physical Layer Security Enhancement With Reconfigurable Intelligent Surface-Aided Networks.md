@@ -7,7 +7,7 @@ date: 2021-05-01
 venue: 'IEEE Transactions on Information Forensics and Security'
 paperurl: 'https://ieeexplore.ieee.org/document/9439833'
 thumbnail: /images/papers/pls.png
-citation: 'Jiayi Zhang, Hongyang Du, Qiang Sun, Bo Ai, and Derrick Wing Kwan Ng, "Physical layer security enhancement with reconfigurable intelligent surface-aided networks," <i>IEEE Transactions on Information Forensics and Security</i> (Impact Factor: 7.231), vol. 16, pp. 3480-3495, May 2021.'
+citation: 'Jiayi Zhang, Hongyang Du, Qiang Sun, Bo Ai, and Derrick Wing Kwan Ng, "Physical layer security enhancement with reconfigurable intelligent surface-aided networks," <i>IEEE Transactions on Information Forensics and Security</i>, vol. 16, pp. 3480-3495, May 2021.'
 ---
 
 [Download paper here](https://hongyangdu.github.io/files/Zhang et al_2021_Physical Layer Security Enhancement With Reconfigurable Intelligent.pdf)

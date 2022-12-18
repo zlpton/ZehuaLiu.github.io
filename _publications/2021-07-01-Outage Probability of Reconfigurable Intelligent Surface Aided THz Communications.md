@@ -1,7 +1,7 @@
 ---
 title: "Outage Probability of Reconfigurable Intelligent Surface Aided THz Communications"
-excerpt: "With the help of the recently proposed reconfigurable intelligent surface (RIS) technology, we investigate a RIS-aided THz communication system.d"
-collection: confs
+excerpt: "With the help of the recently proposed reconfigurable intelligent surface (RIS) technology, we investigate a RIS-aided THz communication system."
+collection: publications
 permalink: /publication/2021-07-01-Outage Probability of Reconfigurable Intelligent Surface Aided THz Communications
 date: 2021-07-01
 venue: 'IEEE/CIC International Conference on Communications in China (ICCC)'

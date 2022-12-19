@@ -1,5 +1,5 @@
 ---
-title: "Wang et al_2022_Wireless Sensing Data Collection and Processing for Metaverse Avatar"
+title: "Wireless Sensing Data Collection and Processing for Metaverse Avatar Construction"
 excerpt: "This article presents a wireless sensing dataset to support the emerging research on Metaverse avatar construction. We observe that the collected sensing data, i.e., channel state information (CSI), suffers from a phase shift problem. Therefore, we propose to detect and correct this phase shift by a sliding window and phase compensation, respectively, and then validate the proposed scheme."
 collection: submitted
 permalink: /submitted/2022-11-04-Semantic-Aware Sensing Information Transmission for Metaverse

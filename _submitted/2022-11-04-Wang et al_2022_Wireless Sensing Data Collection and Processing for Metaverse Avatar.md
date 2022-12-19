@@ -1,9 +1,9 @@
 ---
 title: "Wang et al_2022_Wireless Sensing Data Collection and Processing for Metaverse Avatar"
-excerpt: "We propose a semantic transmission framework for transmitting sensing information from the physical world to Metaverse. Leveraging the in-depth understanding of sensing information, we define the semantic bases, through which the semantic encoding of sensing data is achieved for the first time. To further improve Metaverse service quality, we introduce contest theory to create an incentive mechanism that motivates users to upload data more frequently"
+excerpt: "This article presents a wireless sensing dataset to support the emerging research on Metaverse avatar construction. We observe that the collected sensing data, i.e., channel state information (CSI), suffers from a phase shift problem. Therefore, we propose to detect and correct this phase shift by a sliding window and phase compensation, respectively, and then validate the proposed scheme."
 collection: submitted
-permalink: /submitted/2022-11-03-Semantic-Aware Sensing Information Transmission for Metaverse
-date: 2022-11-03
+permalink: /submitted/2022-11-04-Semantic-Aware Sensing Information Transmission for Metaverse
+date: 2022-11-04
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2210.15130'
 thumbnail: /images/papers/damo.png

@@ -5,7 +5,7 @@ collection: submitted
 permalink: /submitted/2022-12-01-Semantic Communications for Wireless Sensing RIS aided Encoding and Self supervised Decoding
 date: 2022-12-01
 venue: 'Arxiv'
-paperurl: 'https://arxiv.org/abs/2210.15130'
+paperurl: 'https://arxiv.org/abs/2211.12727'
 thumbnail: /images/papers/semss1.png
 citation: 'Hongyang Du, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Junshan Zhang. "Semantic Communications for Wireless Sensing: RIS-aided Encoding and Self-supervised Decoding." arXiv preprint arXiv:2211.12727 (2022).'
 ---

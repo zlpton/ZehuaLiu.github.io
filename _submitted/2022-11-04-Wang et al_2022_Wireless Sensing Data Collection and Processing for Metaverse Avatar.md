@@ -5,7 +5,7 @@ collection: submitted
 permalink: /submitted/2022-11-04-Semantic-Aware Sensing Information Transmission for Metaverse
 date: 2022-11-04
 venue: 'Arxiv'
-paperurl: 'https://arxiv.org/abs/2210.15130'
+paperurl: 'https://arxiv.org/abs/2211.12720'
 thumbnail: /images/papers/damo.png
 citation: 'Jiacheng Wang, Hongyang Du, Xiaolong Yang, Dusit Niyato, Jiawen Kang, and Shiwen Mao. "Wireless Sensing Data Collection and Processing for Metaverse Avatar Construction." arXiv preprint arXiv:2211.12720 (2022).'
 ---

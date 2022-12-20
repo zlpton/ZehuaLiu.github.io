@@ -5,7 +5,7 @@ collection: submitted
 permalink: /submitted/2022-11-03-Performance Analysis of Free-Space Information Sharing in Full-Duplex Semantic Communications
 date: 2022-11-03
 venue: 'Arxiv'
-paperurl: 'https://arxiv.org/abs/2210.15130'
+paperurl: 'https://arxiv.org/abs/2211.14771'
 thumbnail: /images/papers/fdmo.png
 citation: 'Hongyang Du, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim, and Boon Hee Soong. "Performance Analysis of Free-Space Information Sharing in Full-Duplex Semantic Communications." arXiv preprint arXiv:2211.14771 (2022).'
 ---

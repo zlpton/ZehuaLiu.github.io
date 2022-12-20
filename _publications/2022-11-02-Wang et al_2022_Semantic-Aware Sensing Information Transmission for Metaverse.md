@@ -1,10 +1,10 @@
 ---
 title: "Semantic-aware Sensing Information Transmission for Metaverse: A Contest Theoretic Approach"
 excerpt: "We propose a semantic transmission framework for transmitting sensing information from the physical world to Metaverse. Leveraging the in-depth understanding of sensing information, we define the semantic bases, through which the semantic encoding of sensing data is achieved for the first time. To further improve Metaverse service quality, we introduce contest theory to create an incentive mechanism that motivates users to upload data more frequently"
-collection: submitted
-permalink: /submitted/2022-11-01-Semantic-Aware Sensing Information Transmission for Metaverse
+collection: publications
+permalink: /publications/2022-11-01-Semantic-Aware Sensing Information Transmission for Metaverse
 date: 2022-11-01
-venue: 'Arxiv'
+venue: 'IEEE Transactions on Wireless Communications'
 paperurl: 'https://arxiv.org/abs/2210.15130'
 thumbnail: /images/papers/semses.png
 citation: 'Jiacheng Wang, Hongyang Du, Zengshan Tian, Dusit Niyato, and Jiawen Kang. "Semantic-aware sensing information transmission for metaverse: A contest theoretic approach." arXiv preprint arXiv:2211.12783 (2022).'

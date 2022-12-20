@@ -36,14 +36,6 @@ Figure 4: The process of generating the resized matrices from the amplitude and 
 
 Figure 5: Test scenario and hardware of the receiver.
 
-<br/><img src='/images/papers/semss6.png' width = "700">
-
-Figure 6: The variation of the decoded amplitude and phase spectrums at time 4:5 s in the experiment, the corresponding semantic hash matrix, the estimated 2D AoA spectrum by Proposition 2 with the number of outer loop decoding iterations, where the data compression ratio is 5%.
-
 <br/><img src='/images/papers/semss7.png' width = "700">
 
 Figure 8: Comparison between different sampling methods and ground truth in terms of 2D AoA changes with movement of human.
-
-<br/><img src='/images/papers/semss8.png' width = "700">
-
-Figure 9: Comparison of azimuth AoA estimation results that are obtained by using the original and decoded signals, respectively.

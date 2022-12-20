@@ -2,12 +2,12 @@
 title: "A Blockchain-based Semantic Exchange Framework for Web 3.0 toward Participatory Economy"
 excerpt: "We propose a blockchain-based semantic exchange framework to realize fair and efficient interactions. We first tokenize semantic information into Non-Fungible Token (NFT) for semantic exchange. Then we utilize a Stackelberg game to maximize buying and pricing strategies for semantic trading. We leverage Zero-Knowledge Proof to share authentic semantic information without publishing it before receiving payments."
 collection: submitted
-permalink: /submitted/2022-11-01-A Blockchain-based Semantic Exchange Framework for Web 3.0 toward Participatory Economy
+permalink: /submitted/2022-11-05-A Blockchain-based Semantic Exchange Framework for Web 3.0 toward Participatory Economy
 date: 2022-11-01
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2210.15130'
 thumbnail: /images/papers/semblo1.png
-citation: 'Lin, Yijing, Zhipeng Gao, Hongyang Du, Dusit Niyato, Jiawen Kang, Ruilong Deng, and Xuemin Sherman Shen. "A Unified Blockchain-Semantic Framework for Wireless Edge Intelligence Enabled Web 3.0." arXiv preprint arXiv:2210.15130 (2022).'
+citation: 'Yijing Lin, Zhipeng Gao, Yaofeng Tu, Hongyang Du, Dusit Niyato, Jiawen Kang, and Hui Yang. "A Blockchain-based Semantic Exchange Framework for Web 3.0 toward Participatory Economy." arXiv preprint arXiv:2211.16662 (2022).'
 ---
 
 [Download paper here](http://hongyangdu.github.io/files/Lin et al_2022_A Blockchain-based Semantic Exchange Framework for Web 3.pdf)

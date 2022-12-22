@@ -16,6 +16,7 @@ My current research interests include, but are not limited to, Semantic Communic
 
 News
 ======
+1. [Dec/2022] I visited [Sungkyunkwan University](https://www.skku.edu/eng/index.do) in Korea, hosted by Prof. [Dong In Kim](http://wireless.skku.edu/english/viewforum.php?f=96). A memorable month!
 1. [Nov/2022] Our paper titled ["Semantic Communications for Future Internet: Fundamentals, Applications, and Challenges"](https://hongyangdu.github.io/files/Yang et al_2022_Semantic Communications for Future Internet.pdf) is accepted by IEEE COMST (IF: 33.84)!
 1. [Nov/2022] I am honored to receive the IEEE Daniel E. Nobel Fellowship Award!
 1. [Oct/2022] Our paper titled ["Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis"](https://hongyangdu.github.io/files/Kang et al_2022_Personalized Saliency in Task-Oriented Semantic Communications.pdf) is accepted by IEEE JSAC (IF: 13.08)!

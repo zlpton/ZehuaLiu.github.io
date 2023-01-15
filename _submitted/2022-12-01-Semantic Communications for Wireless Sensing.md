@@ -18,7 +18,7 @@ citation: 'Hongyang Du, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, a
 
 <br/><img src='/images/papers/semss1.png' width = "700">
 
-Figure 1: Fig. 1. The ideas of conventional, semantic, and inverse semantic communications. Motivated by the inverse semantic-aware communication, we propose an inverse semantic-aware encoding and decoding framework and show the results. Specifically, we select 10 original signal amplitude/phase spectrum (Part I) by using our proposed Algorithm 2, and encode them into one MetaSpectrum by using the RIS and Algorithm 1. After wireless transmission, the reconstruction results (Part II) are obtained by decoding the MetaSpectrum using Algorithm 3. The sensing data is collected by real experiments with an IEEE 802.11ax based test platform [13].
+Figure 1: The ideas of conventional, semantic, and inverse semantic communications. Motivated by the inverse semantic-aware communication, we propose an inverse semantic-aware encoding and decoding framework and show the results. Specifically, we select 10 original signal amplitude/phase spectrum (Part I) by using our proposed Algorithm 2, and encode them into one MetaSpectrum by using the RIS and Algorithm 1. After wireless transmission, the reconstruction results (Part II) are obtained by decoding the MetaSpectrum using Algorithm 3. The sensing data is collected by real experiments with an IEEE 802.11ax based test platform [13].
 
 <br/><img src='/images/papers/semss2.png' width = "700">
 

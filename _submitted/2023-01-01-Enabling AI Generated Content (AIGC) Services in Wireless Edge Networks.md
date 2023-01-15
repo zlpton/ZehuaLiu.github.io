@@ -1,11 +1,11 @@
 ---
-title: "Enabling AI-Generated Content (AIGC) Services in Wireless Edge Networks"
+title: "Enabling AI Generated Content (AIGC) Services in Wireless Edge Networks"
 excerpt: "To the best of our knowledge, this is the first research work to discuss the deployments, aforementioned challenges, and future directions of AI-Generated Content (AIGC) in wireless edge networks. We propose a general and effective model to illustrate the relationship between computational resources and user-perceived quality evaluation metrics. We propose a deep reinforcement learning-enabled algorithm for the optimal AIGC service provider (ASP) selection."
 collection: submitted
-permalink: /submitted/2023-01-01-Enabling AI-Generated Content (AIGC) Services in Wireless Edge Networks
+permalink: /submitted/2023-01-01-Enabling AI Generated Content (AIGC) Services in Wireless Edge Networks
 date: 2023-01-01
 venue: 'Arxiv'
-paperurl: 'https://arxiv.org/abs/2211.16662'
+paperurl: 'https://arxiv.org/abs/2301.03220'
 thumbnail: /images/papers/aigc1.png
 citation: 'Hongyang Du, Zonghang Li, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Dong In Kim. "Enabling AI-Generated Content (AIGC) Services in Wireless Edge Networks." arXiv preprint arXiv:2301.03220 (2023).'
 ---

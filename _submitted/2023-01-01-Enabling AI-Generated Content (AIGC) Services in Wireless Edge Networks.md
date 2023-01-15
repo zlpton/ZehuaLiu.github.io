@@ -6,7 +6,7 @@ permalink: /submitted/2023-01-01-Enabling AI-Generated Content (AIGC) Services i
 date: 2023-01-01
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2211.16662'
-thumbnail: /images/papers/semblo1.png
+thumbnail: /images/papers/aigc1.png
 citation: 'Hongyang Du, Zonghang Li, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Dong In Kim. "Enabling AI-Generated Content (AIGC) Services in Wireless Edge Networks." arXiv preprint arXiv:2301.03220 (2023).'
 ---
 

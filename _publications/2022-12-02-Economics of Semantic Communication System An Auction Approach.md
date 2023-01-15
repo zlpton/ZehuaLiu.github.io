@@ -6,6 +6,7 @@ permalink: /publications/2022-08-05-Economics of Semantic Communication System A
 date: 2022-12-02
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2208.05040'
+thumbnail: /images/papers/semauc1.png
 citation: 'Zi Qin Liew, Hongyang Du, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Chunyan Miao, and Dong In Kim. "Economics of Semantic Communication System: An Auction Approach." arXiv preprint arXiv:2208.05040 (2022).'
 ---
 

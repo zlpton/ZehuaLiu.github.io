@@ -1,5 +1,5 @@
 ---
-title: "Extremely Large-Scale MIMO: Fundamentals, Challenges, Solutions, and Future Directions"
+title: "Extremely Large Scale MIMO: Fundamentals, Challenges, Solutions, and Future Directions"
 collection: submitted
 permalink: /submitted/2022-09-01-Extremely Large-Scale MIMO: Fundamentals, Challenges, Solutions, and Future Directions
 date: 2022-09-01

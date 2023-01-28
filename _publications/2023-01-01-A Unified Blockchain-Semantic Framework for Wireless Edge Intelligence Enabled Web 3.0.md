@@ -6,6 +6,7 @@ permalink: /publications/2023-01-01-A Unified Blockchain-Semantic Framework for 
 date: 2023-01-01
 venue: 'IEEE Wireless Communications Magazine'
 paperurl: 'https://arxiv.org/abs/2210.15130'
+thumbnail: /images/papers/SEMWCM1.jpg
 citation: 'Lin, Yijing, Zhipeng Gao, Hongyang Du, Dusit Niyato, Jiawen Kang, Ruilong Deng, and Xuemin Sherman Shen. "A Unified Blockchain-Semantic Framework for Wireless Edge Intelligence Enabled Web 3.0." IEEE Wireless Communications Magazine, arXiv preprint arXiv:2210.15130 (2022).'
 ---
 

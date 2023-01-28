@@ -2,7 +2,7 @@
 title: "A Unified Blockchain Semantic Framework for Wireless Edge Intelligence Enabled Web 3.0"
 excerpt: "We propose a unified blockchain-semantic ecosystems framework for wireless edge intelligence-enabled Web 3.0. Our framework consists of six key components to exchange semantic demands."
 collection: publications
-permalink: /publications/2023-01-01-A Unified Blockchain-Semantic Framework for Wireless Edge Intelligence Enabled Web 3.0
+permalink: /publications/2023-01-01-A Unified Blockchain Semantic Framework for Wireless Edge Intelligence Enabled Web3
 date: 2023-01-01
 venue: 'IEEE Wireless Communications Magazine'
 paperurl: 'https://arxiv.org/abs/2210.15130'

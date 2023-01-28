@@ -2,7 +2,7 @@
 title: "Economics of Semantic Communication System: An Auction Approach"
 excerpt: "We propose an incentive design framework for the semantic model trading and semantic information trading to support the deployment of semantic communication systems. We model the competition in the semantic model trading and semantic information trading with auction mechanisms. We propose an effective feature reduction method for data transmission under a limited data transfer budget."
 collection: publications
-permalink: /publications/2022-08-05-Economics of Semantic Communication System An Auction Approach
+permalink: /publications/2022-12-02-Economics of Semantic Communication System An Auction Approach
 date: 2022-12-02
 venue: 'IEEE Transactions on Vehicular Technology'
 paperurl: 'https://arxiv.org/abs/2208.05040'

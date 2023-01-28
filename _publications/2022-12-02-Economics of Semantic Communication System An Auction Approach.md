@@ -4,10 +4,10 @@ excerpt: "We propose an incentive design framework for the semantic model tradin
 collection: publications
 permalink: /publications/2022-08-05-Economics of Semantic Communication System An Auction Approach
 date: 2022-12-02
-venue: 'Arxiv'
+venue: 'IEEE Transactions on Vehicular Technology'
 paperurl: 'https://arxiv.org/abs/2208.05040'
 thumbnail: /images/papers/semauc1.png
-citation: 'Zi Qin Liew, Hongyang Du, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Chunyan Miao, and Dong In Kim. "Economics of Semantic Communication System: An Auction Approach." arXiv preprint arXiv:2208.05040 (2022).'
+citation: 'Zi Qin Liew, Hongyang Du, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Chunyan Miao, and Dong In Kim. "Economics of Semantic Communication System: An Auction Approach." IEEE Transactions on Vehicular Technology, arXiv preprint arXiv:2208.05040 (2022).'
 ---
 
 [Download paper here](http://hongyangdu.github.io/files/Liew et al_2022_Economics of Semantic Communication System.pdf)

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I am Hongyang Du (杜泓阳)"
+title: "Hi, I am Hongyang Du ( 杜泓阳 )"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

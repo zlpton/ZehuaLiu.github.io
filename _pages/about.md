@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I am Hongyang :D"
+title: "Hi, I am Hongyang Du (杜泓阳)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuing the Ph.D. degree with the School of Computer Science and Engineering, Energy Research Institute @ NTU, Nanyang Technological University, Singapore, under the Interdisciplinary Graduate Program, supervised by Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/). Before that, I received the B.Sc. degree from Beijing Jiaotong University, Beijing, China, in 2021, supervised by Prof. [Jiayi Zhang](http://faculty.bjtu.edu.cn/8946/).
+I am pursuing the Ph.D. degree with the School of Computer Science and Engineering, [Energy Research Institute @ NTU](https://www.ntu.edu.sg/erian), Nanyang Technological University, Singapore, under the [Interdisciplinary Graduate Program](https://www.ntu.edu.sg/graduate-college/admissions/programme/interdisciplinary-graduate-programme), supervised by Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/). Before that, I received the B.Sc. degree from Beijing Jiaotong University, Beijing, China, in 2021, supervised by Prof. [Jiayi Zhang](http://faculty.bjtu.edu.cn/8946/).
 
 I now serve as the Editor-in-Chief Assistant of [IEEE Communications Surveys and Tutorials](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739) (IEEE COMST). In 2021, the impact factor of IEEE COMST reached 33.84, which is the highest one in all IEEE journals/magazines. To further promote IEEE COMST, I am helping to run some social accounts, including Linkedin (@IEEE Communications Surveys And Tutorials), Twitter (@IEEECOMST), and WeChat Account (@IEEECOMST). Thanks for following!
 
-My current research interests include, but are not limited to, Semantic Communications, Integrated Sensing And Communications, AI, and Metaverse. **If you are interested in cooperating with me or just have a talk**, feel free to email me (hongyang001@e.ntu.edu.sg)! I am always happy to discuss with / learn from smart minds ^_^!
+My current research interests include, but are not limited to, Semantic Communications, Integrated Sensing And Communications, AI, and Metaverse. **If you are interested to collaborate with me or just have a chat**, feel free to email me (hongyang001@e.ntu.edu.sg)! I am always happy to discuss with / learn from smart minds ^_^!
 
 News
 ======
@@ -29,7 +29,7 @@ News
 
 Selected Publications
 ======
-**For all publications, please refer to my [google scholar](https://scholar.google.com/citations?user=QI3vo-YAAAAJ&hl=en&oi=ao).**
+**For all publications, please refer to [here](https://hongyangdu.github.io/publications/) or my [google scholar](https://scholar.google.com/citations?user=QI3vo-YAAAAJ&hl=en&oi=ao).**
 1. **Hongyang Du**, Jiazhen Liu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Junshan Zhang, and Dong In Kim, ["Attention-aware Resource Allocation and QoE Analysis for Metaverse xURLLC Services,"](https://arxiv.org/abs/2208.05438) **IEEE Journal on Selected Areas in Communications** (Impact Factor: 13.081), Major Revision, 2023.
 1. **Hongyang Du**, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Dong In Kim, "Full-Duplex Semantic Communications For Device-to-Device Free-Space Information Sharing," **IEEE Journal on Selected Areas in Communications** (Impact Factor: 13.081), Major Revision, 2023.
 1. **Hongyang Du**, Dusit Niyato, Yuanai Xie, Yanyu Cheng, Jiawen Kang, and Dong In Kim, ["Performance Analysis and Optimization for Jammer-Aided Multi-Antenna UAV Covert Communication,"](https://ieeexplore.ieee.org/document/9849051) **IEEE Journal on Selected Areas in Communications** (Impact Factor: 13.081), vol. 40, pp. 2962-2979, Oct, 2022. <font color=green>The first study that analyzes a jammer-aided UAV covert communication system over composite fading and shadowing with accurate and tractable generalized channel models.</font>
@@ -44,11 +44,14 @@ Selected Publications
 1. Jiawen Kang, **Hongyang Du**, Zonghang Li, Zehui Xiong, Shiyao Ma, Dusit Niyato, and Yuan Li. ["Personalized Saliency-Based Task-Oriented Semantic Communications: Architecture Design and Performance Analysis."](https://arxiv.org/pdf/2209.12274) **IEEE Journal on Selected Areas in Communications** (Impact Factor: 13.081), to appear, 2022. <font color=green>We have first presented an energy-efficient task-oriented semantic communication framework with an efficient image retrieval manner based on a triple-based scene graph.</font>
 1. Wanting Yang, **Hongyang Du**, Ziqin Liew, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Xuefen Chi, Xuemin Sherman Shen, and Chunyan Miao. ["Semantic Communications for Future Internet: Fundamentals, Applications, and Challenges"](https://ieeexplore.ieee.org/document/9955312), **IEEE Communications Surveys & Tutorials** (Impact Factor: 33.84), Nov. 2022. <font color=green>A comprehensive survey of semantic communications for 6G network.</font>
 
-
-
 Awards
 ======
 1. IEEE Daniel E. Nobel Fellowship Award, from **IEEE Vehicular Technology Society**, 2022
 2. **Exemplary Reviewer** of the IEEE TRANSACTIONS ON COMMUNICATIONS, 2021
 3. **National Scholarship (China)** 2020 and 2018 
 
+Academic Services
+======
+1. Assistant to the Editor-in Chief, IEEE Communications Surveys & Tutorials [2022-now]
+2. TPC Member, IEEE WCNC 2022, IEEE WCNC 2023
+3. Reviewer: IEEE COMST, JSAC, TWC, TIFS, TCOM, TVT, WCM, IoTJ, and more.

@@ -12,10 +12,11 @@ I am pursuing the Ph.D. degree with the School of Computer Science and Engineeri
 
 I now serve as the Editor-in-Chief Assistant of [IEEE Communications Surveys and Tutorials](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739) (IEEE COMST). In 2021, the impact factor of IEEE COMST reached 33.84, which is the highest one in all IEEE journals/magazines. To further promote IEEE COMST, I am helping to run some social accounts, including Linkedin (@IEEE Communications Surveys And Tutorials), Twitter (@IEEECOMST), and WeChat Account (@IEEECOMST). Thanks for following!
 
-My current research interests include, but are not limited to, Semantic Communications, Integrated Sensing And Communications, AI, and Metaverse. **If you are interested in cooperating with me**, feel free to email me (hongyang001@e.ntu.edu.sg)! I am always happy to discuss with / learn from smart minds ^_^!
+My current research interests include, but are not limited to, Semantic Communications, Integrated Sensing And Communications, AI, and Metaverse. **If you are interested in cooperating with me or just have a talk**, feel free to email me (hongyang001@e.ntu.edu.sg)! I am always happy to discuss with / learn from smart minds ^_^!
 
 News
 ======
+1. [Jan/2022] I visited <font color=green>Japan</font>. Happy to make many new friends!
 1. [Dec/2022] I visited [Sungkyunkwan University](https://www.skku.edu/eng/index.do) in <font color=green>Korea</font>, hosted by Prof. [Dong In Kim](http://wireless.skku.edu/english/viewforum.php?f=96). A memorable month!
 1. [Nov/2022] Our paper titled ["Semantic Communications for Future Internet: Fundamentals, Applications, and Challenges"](https://hongyangdu.github.io/files/Yang et al_2022_Semantic Communications for Future Internet.pdf) is accepted by IEEE COMST (IF: 33.84)!
 1. [Nov/2022] I am honored to receive the <font color=green>IEEE Daniel E. Nobel Fellowship Award</font>!
@@ -29,6 +30,8 @@ News
 Selected Publications
 ======
 **For all publications, please refer to my [google scholar](https://scholar.google.com/citations?user=QI3vo-YAAAAJ&hl=en&oi=ao).**
+1. **Hongyang Du**, Jiazhen Liu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Junshan Zhang, and Dong In Kim, ["Attention-aware Resource Allocation and QoE Analysis for Metaverse xURLLC Services,"](https://arxiv.org/abs/2208.05438) **IEEE Journal on Selected Areas in Communications** (Impact Factor: 13.081), Major Revision, 2023.
+1. **Hongyang Du**, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Dong In Kim, "Full-Duplex Semantic Communications For Device-to-Device Free-Space Information Sharing," **IEEE Journal on Selected Areas in Communications** (Impact Factor: 13.081), Major Revision, 2023.
 1. **Hongyang Du**, Dusit Niyato, Yuanai Xie, Yanyu Cheng, Jiawen Kang, and Dong In Kim, ["Performance Analysis and Optimization for Jammer-Aided Multi-Antenna UAV Covert Communication,"](https://ieeexplore.ieee.org/document/9849051) **IEEE Journal on Selected Areas in Communications** (Impact Factor: 13.081), vol. 40, pp. 2962-2979, Oct, 2022. <font color=green>The first study that analyzes a jammer-aided UAV covert communication system over composite fading and shadowing with accurate and tractable generalized channel models.</font>
 1. **Hongyang Du**, Jiayi Zhang, Ke Guan, Dusit Niyato, Huiying Jiao, Zhiqin Wang, and Thomas Kürner, ["Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications,"](https://ieeexplore.ieee.org/document/9743437/) <i>IEEE Transactions on Communications</i> (Impact Factor: 6.166), vol. 70, pp. 3575-3593, May, 2022 <font color=green>We first prove that the small-scale amplitude fading of THz signals can be accurately modeled by the fluctuating two-ray distribution based on two THz signal measurement experiments conducted in a variety of different scenarios.</font>
 1. **Hongyang Du**, Jiayi Zhang, Julian Cheng, and Bo Ai, ["Millimeter wave communications with reconfigurable intelligent surfaces: Performance analysis and optimization,"](https://ieeexplore.ieee.org/document/9324795/) *IEEE Transactions on Communications* (Impact Factor: 6.166), vol. 69, no. 4, pp. 2752–2768, Apr. 2021. <font color=green>We made a comprehensive comparison between the RIS-aided and AF relay systems over realistic mmWave channels.</font>

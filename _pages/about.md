@@ -48,8 +48,9 @@ Selected Publications
 Awards
 ======
 1. IEEE Daniel E. Nobel Fellowship Award, from **IEEE Vehicular Technology Society**, 2022
-2. **Exemplary Reviewer** of the IEEE TRANSACTIONS ON COMMUNICATIONS, 2021
-3. **National Scholarship (China)** 2020 and 2018 
+1. **Exemplary Reviewer** of the IEEE TRANSACTIONS ON COMMUNICATIONS, 2021
+1. **Exemplary Reviewer** of the IEEE COMMUNICATIONS LETTERS, 2021
+1. **National Scholarship (China)** 2020 and 2018 
 
 Academic Services
 ======

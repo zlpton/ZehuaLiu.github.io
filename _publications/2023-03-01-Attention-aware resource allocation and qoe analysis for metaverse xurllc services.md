@@ -30,15 +30,15 @@ Fig. 2: A contract theory-based Metaverse xURLLC service market with multi-dimen
 
 Fig. 3: A novel performance metric in Metaverse: Meta-Immersion, and corresponding experience factors, service indicators, and KPIs, a.k.a., performance measures.
 
-<br/><img src='/images/papers/atten4' width = "700">
+<br/><img src='/images/papers/atten4.png' width = "700">
 
 Fig. 4: The working principle of attention-aware user-object-attention values prediction.
 
 
-<br/><img src='/images/papers/atten5' width = "700">
+<br/><img src='/images/papers/atten5.png' width = "700">
 
 Fig. 5: Some examples for object labels and the user-object-attention values in UOAL.
 
-<br/><img src='/images/papers/atten6' width = "700">
+<br/><img src='/images/papers/atten6.png' width = "700">
 
 Fig. 8: The prediction error of user-object-attention values for all objects.

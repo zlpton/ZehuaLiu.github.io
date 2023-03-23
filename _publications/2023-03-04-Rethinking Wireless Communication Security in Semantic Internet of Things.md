@@ -4,7 +4,7 @@ excerpt: "We analyze and compare classical security techniques, i.e., physical l
 collection: publications
 permalink: /publications/2023-03-04-Rethinking Wireless Communication Security in Semantic Internet of Things
 date: 2023-03-04
-venue: 'IEEE Open Journal of the Computer Society'
+venue: 'IEEE Wireless Communications'
 paperurl: 'https://arxiv.org/pdf/2301.11289.pdf'
 thumbnail: /images/papers/iots1.png
 citation: 'Hongyang Du, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Mohsen Guizani, and Dong In Kim. "Rethinking Wireless Communication Security in Semantic Internet of Things." arXiv preprint arXiv:2210.04474 (2022).'

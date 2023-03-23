@@ -16,6 +16,7 @@ My current research interests include, but are not limited to, Semantic Communic
 
 News
 ======
+1. [Mar/2022] The definition of AI-Generated Content (AIGC) in our research [paper](https://arxiv.org/abs/2301.03220) has been identified as the “AIGC definition” in [Google search](https://www.google.com/search?client=firefox-b-d&q=aigc+definition).
 1. [Jan/2022] I visited <font color=green>Japan</font>. Happy to make many new friends!
 1. [Dec/2022] I visited [Sungkyunkwan University](https://www.skku.edu/eng/index.do) in <font color=green>Korea</font>, hosted by Prof. [Dong In Kim](http://wireless.skku.edu/english/viewforum.php?f=96). A memorable month!
 1. [Nov/2022] Our paper titled ["Semantic Communications for Future Internet: Fundamentals, Applications, and Challenges"](https://hongyangdu.github.io/files/Yang et al_2022_Semantic Communications for Future Internet.pdf) is accepted by IEEE COMST (IF: 33.84, Q1)!

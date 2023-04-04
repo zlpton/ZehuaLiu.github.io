@@ -3,7 +3,7 @@ title: "Extremely Large Scale MIMO: Fundamentals, Challenges, Solutions, and Fut
 excerpt: "To provide scalable subscription solutions for Metaverse services, we propose a new concept, named Metaverse-as-a-Service (MaaS), in which various physical-virtual components and technologies in the Metaverse can be delivered as services. Furthermore, to unify the management and orchestration of MaaS, we propose a novel framework, called Slicing4Meta, to customize Metaverse services by intelligently integrating MaaS models and the associated multi-dimensional resources on the components and technologies."
 collection: publications
 permalink: /publications/2022-09-01-Extremely Large-Scale MIMO: Fundamentals, Challenges, Solutions, and Future Directions
-date: 2022-09-01
+date: 2023-04-02
 venue: 'IEEE Wireless Communications'
 paperurl: 'https://arxiv.org/abs/2209.12131'
 thumbnail: /images/papers/xlmimo.png

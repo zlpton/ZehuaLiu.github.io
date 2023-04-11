@@ -1,6 +1,6 @@
 ---
 title: "AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing"
-excerpt: " We analyze the performance of full-duplex D2D communications, including the achievable rate and bit error probability, by using generalized small-scale fading models. To facilitate semantic information sharing among users, we design a contract theoretic AI-generated incentive mechanism. The proposed diffusion model generates the optimal contract design, outperforming two deep reinforcement learning algorithms."
+excerpt: "We analyze the performance of full-duplex D2D communications, including the achievable rate and bit error probability, by using generalized small-scale fading models. To facilitate semantic information sharing among users, we design a contract theoretic AI-generated incentive mechanism. The proposed diffusion model generates the optimal contract design, outperforming two deep reinforcement learning algorithms."
 collection: publications
 permalink: /publications/2023-04-03-AI Generated Incentive Mechanism and Full Duplex Semantic Communications for Information Sharing
 date: 2023-04-03
@@ -10,7 +10,7 @@ thumbnail: /images/papers/diff6.png
 citation: 'Hongyang Du, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Dong In Kim. "AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing." IEEE Journal on Selected Areas in Communications (2023).'
 ---
 
-[Download paper here](http://hongyangdu.github.io/files/Wang et al_2022_Extremely Large-Scale MIMO.pdf)
+[Download paper here](http://hongyangdu.github.io/files/Du et al_2023_AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for2.pdf)
 
 **Abstract**: The next generation of Internet services, such as Metaverse, rely on mixed reality (MR) technology to provide immersive user experiences. However, limited computation power of MR headset-mounted devices (HMDs) hinders the deployment of such services. Therefore, we propose an efficient informationsharing scheme based on full-duplex device-to-device (D2D) semantic communications to address this issue. Our approach enables users to avoid heavy and repetitive computational tasks, such as artificial intelligence-generated content (AIGC) in the view images of all MR users. Specifically, a user can transmit the generated content and semantic information extracted from their view image to nearby users, who can then use this information to obtain the spatial matching of computation results under their view images. We analyze the performance of full-duplex D2D communications, including the achievable rate and bit error probability, by using generalized small-scale fading models. To facilitate semantic information sharing among users, we design a contract theoretic AI-generated incentive mechanism. The proposed diffusion model generates the optimal contract design, outperforming two deep reinforcement learning algorithms, i.e., proximal policy optimization and soft actor-critic algorithms. Our numerical analysis experiment proves the effectiveness of our proposed methods.
 

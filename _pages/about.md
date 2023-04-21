@@ -16,7 +16,7 @@ My current research interests include, but are not limited to, Semantic Communic
 
 News
 ======
-1. [Jan/2023] I visited <font color=green>Australia</font> and explored the beautiful University of Technology Sydney, University of Sydney, University of New South Wales.
+1. [Apr/2023] I visited <font color=green>Australia</font> and explored the beautiful University of Technology Sydney, University of Sydney, University of New South Wales.
 1. [Mar/2023] The definition of AI-Generated Content (AIGC) in our research [paper](https://arxiv.org/abs/2301.03220) is identified as the “AIGC definition” in [Google search](https://www.google.com/search?client=firefox-b-d&q=aigc+definition). Interesting ^_^
 1. [Jan/2023] I visited <font color=green>Japan</font> and explored the wonderful Tohoku University. Happy to make many new friends!
 1. [Dec/2022] I visited [Sungkyunkwan University](https://www.skku.edu/eng/index.do) in <font color=green>Korea</font>, hosted by Prof. [Dong In Kim](http://wireless.skku.edu/english/viewforum.php?f=96). A memorable month!

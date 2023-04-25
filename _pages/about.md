@@ -49,14 +49,14 @@ Selected Publications
 1. Jiayi Zhang, **Hongyang Du**, Qiang Sun, Bo Ai, and Derrick Wing Kwan Ng. ["Physical layer security enhancement with reconfigurable intelligent surface-aided networks."](https://ieeexplore.ieee.org/abstract/document/9439833?casa_token=Ft37Yc-M8csAAAAA:pO6gg_LAGlSeM-KFlgj7qsHqQGetDcqFS53gKagSXPR6-gl6PwB1Qwkj62R4JGFcvoLDLAbGOg) **IEEE Transactions on Information Forensics and Security** (IF: 7.231, Q1), 16:3480-3495, 2021. <font color=green>We study the physical layer security of the downlink RIS-aided transmission framework for randomly located users in the presence of a multi-antenna eavesdropper.</font>
 1. Wanting Yang, **Hongyang Du**, Ziqin Liew, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Xuefen Chi, Xuemin Sherman Shen, and Chunyan Miao. ["Semantic Communications for Future Internet: Fundamentals, Applications, and Challenges"](https://ieeexplore.ieee.org/document/9955312), **IEEE Communications Surveys & Tutorials** (IF: 33.84, Q1), Nov. 2022. <font color=green>A comprehensive survey of semantic communications for 6G network.</font>
 
-Awards :sparkles:
+Awards
 ======
 1. **IEEE Daniel E. Nobel Fellowship Award**, from **IEEE Vehicular Technology Society**, 2022 (Only one person is selected globally each year.) <br/><img src='/images/VTS.jpg'>
 1. **Exemplary Reviewer** of the IEEE TRANSACTIONS ON COMMUNICATIONS, 2021 <br/><img src='/images/ReTCOM.jpg'>
 1. **Exemplary Reviewer** of the IEEE COMMUNICATIONS LETTERS, 2021 <br/><img src='/images/communlett.jpg'>
 1. **National Scholarship (China)** 2020 and 2018 
 
-Academic Services :bulb:
+Academic Services
 ======
 1. Assistant to the Editor-in Chief, IEEE Communications Surveys & Tutorials [2022-now]
 2. TPC Member, IEEE WCNC 2022, IEEE WCNC 2023

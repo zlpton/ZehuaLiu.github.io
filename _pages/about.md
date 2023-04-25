@@ -8,20 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuing the Ph.D. degree with the School of Computer Science and Engineering, [Energy Research Institute @ NTU](https://www.ntu.edu.sg/erian), Nanyang Technological University, Singapore, under the [Interdisciplinary Graduate Program](https://www.ntu.edu.sg/graduate-college/admissions/programme/interdisciplinary-graduate-programme), supervised by Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/). Before that, I received the B.Sc. degree from Beijing Jiaotong University, Beijing, China, in 2021, supervised by Prof. [Jiayi Zhang](http://faculty.bjtu.edu.cn/8946/).
+I am pursuing the Ph.D. degree with the School of Computer Science and Engineering, [Energy Research Institute @ NTU](https://www.ntu.edu.sg/erian), Nanyang Technological University, Singapore, under the [Interdisciplinary Graduate Program](https://www.ntu.edu.sg/graduate-college/admissions/programme/interdisciplinary-graduate-programme). My research is supervised by Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/). Prior to this, I completed my B.Sc. degree at Beijing Jiaotong University, Beijing, China, in 2021, under the guidance of Prof. [Jiayi Zhang](http://faculty.bjtu.edu.cn/8946/).
 
 I now serve as the Editor-in-Chief Assistant of [IEEE Communications Surveys and Tutorials](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739) (IEEE COMST). In 2021, the impact factor of IEEE COMST reached 33.84, which is the highest one in all IEEE journals/magazines. To further promote IEEE COMST, I am helping to run some social accounts, including Linkedin (@IEEE Communications Surveys And Tutorials), Twitter (@IEEECOMST), and WeChat Account (@IEEECOMST). Thanks for following!
 
-My current research interests include, but are not limited to, Semantic Communications, Integrated Sensing And Communications, AI, and Metaverse. **If you are interested to collaborate with me or just have a chat**, feel free to email me (hongyang001@e.ntu.edu.sg)! I am always happy to discuss with / learn from smart minds ^_^!
+My current research interests include, but are not limited to, Semantic Communications, Generative AI, Integrated Sensing And Communications, and Metaverse. **If you are interested to collaborate with me or just have a chat**, please feel free to email me (hongyang001@e.ntu.edu.sg)! I am always happy to discuss with / learn from brilliant minds ^_^!
 
 News
 ======
-1. [Apr/2023] I visited <font color=green>Australia</font> and explored the beautiful University of Technology Sydney, University of Sydney, University of New South Wales. Relaxing days!
+1. [Apr/2023] I had the pleasure of visiting <font color=green>Australia</font>, where I explored the beautiful campuses of the University of Technology Sydney, University of Sydney, University of New South Wales. Relaxing days!
 1. [Mar/2023] The definition of AI-Generated Content (AIGC) in our research [paper](https://arxiv.org/abs/2301.03220) is identified as the “AIGC definition” in [Google search](https://www.google.com/search?client=firefox-b-d&q=aigc+definition). Interesting ^_^
-1. [Jan/2023] I visited <font color=green>Japan</font> and explored the wonderful Tohoku University. Happy to make many new friends!
-1. [Dec/2022] I visited [Sungkyunkwan University](https://www.skku.edu/eng/index.do) in <font color=green>Korea</font>, hosted by Prof. [Dong In Kim](http://wireless.skku.edu/english/viewforum.php?f=96). A memorable month!
+1. [Jan/2023] I visited <font color=green>Japan</font> and had the opportunity to explore the wonderful Tohoku University. Happy to make many new friends!
+1. [Dec/2022] I visited [Sungkyunkwan University](https://www.skku.edu/eng/index.do) in <font color=green>Korea</font>, hosted by Prof. [Dong In Kim](http://wireless.skku.edu/english/viewforum.php?f=96). It was a memorable month!
 1. [Nov/2022] Our paper titled ["Semantic Communications for Future Internet: Fundamentals, Applications, and Challenges"](https://hongyangdu.github.io/files/Yang et al_2022_Semantic Communications for Future Internet.pdf) is accepted by IEEE COMST (IF: 33.84, Q1)!
-1. [Nov/2022] I am honored to receive the <font color=green>IEEE Daniel E. Nobel Fellowship Award</font>!
+1. [Nov/2022] I am honored to receive the <font color=green>IEEE Daniel E. Nobel Fellowship Award</font> (One persion each year)!
 1. [Oct/2022] Our paper titled ["Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis"](https://hongyangdu.github.io/files/Kang et al_2022_Personalized Saliency in Task-Oriented Semantic Communications.pdf) is accepted by IEEE JSAC (IF: 13.08, Q1)!
 1. [Jun/2022] I visited [Chiang Mai University](https://www.cmu.ac.th/en/) in <font color=green>Thailand</font>, hosted by Prof. [Maggie](https://scholar.google.com/citations?hl=zh-CN&user=iirwtGkAAAAJ). Very happy time!
 1. [Mar/2022] Our paper titled ["Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications"](http://hongyangdu.github.io/files/Du et al_2022_Performance and Optimization of Reconfigurable Intelligent Surface Aided THz.pdf) is accepted by IEEE TCOM! 
@@ -49,14 +49,14 @@ Selected Publications
 1. Jiayi Zhang, **Hongyang Du**, Qiang Sun, Bo Ai, and Derrick Wing Kwan Ng. ["Physical layer security enhancement with reconfigurable intelligent surface-aided networks."](https://ieeexplore.ieee.org/abstract/document/9439833?casa_token=Ft37Yc-M8csAAAAA:pO6gg_LAGlSeM-KFlgj7qsHqQGetDcqFS53gKagSXPR6-gl6PwB1Qwkj62R4JGFcvoLDLAbGOg) **IEEE Transactions on Information Forensics and Security** (IF: 7.231, Q1), 16:3480-3495, 2021. <font color=green>We study the physical layer security of the downlink RIS-aided transmission framework for randomly located users in the presence of a multi-antenna eavesdropper.</font>
 1. Wanting Yang, **Hongyang Du**, Ziqin Liew, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Xuefen Chi, Xuemin Sherman Shen, and Chunyan Miao. ["Semantic Communications for Future Internet: Fundamentals, Applications, and Challenges"](https://ieeexplore.ieee.org/document/9955312), **IEEE Communications Surveys & Tutorials** (IF: 33.84, Q1), Nov. 2022. <font color=green>A comprehensive survey of semantic communications for 6G network.</font>
 
-Awards
+Awards :sparkles:
 ======
 1. **IEEE Daniel E. Nobel Fellowship Award**, from **IEEE Vehicular Technology Society**, 2022 (Only one person is selected globally each year.) <br/><img src='/images/VTS.jpg'>
 1. **Exemplary Reviewer** of the IEEE TRANSACTIONS ON COMMUNICATIONS, 2021 <br/><img src='/images/ReTCOM.jpg'>
 1. **Exemplary Reviewer** of the IEEE COMMUNICATIONS LETTERS, 2021 <br/><img src='/images/communlett.jpg'>
 1. **National Scholarship (China)** 2020 and 2018 
 
-Academic Services
+Academic Services :bulb:
 ======
 1. Assistant to the Editor-in Chief, IEEE Communications Surveys & Tutorials [2022-now]
 2. TPC Member, IEEE WCNC 2022, IEEE WCNC 2023

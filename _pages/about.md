@@ -62,6 +62,5 @@ Academic Services
 2. TPC Member, IEEE WCNC 2022, IEEE WCNC 2023
 3. Reviewer: IEEE COMST, JSAC, TWC, TIFS, TCOM, TVT, WCM, IoTJ, and more.
 
-<div style="transform: scale(0.4); transform-origin: 0 0;">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=9r_p46Ijorlwx2n68MARRySVjg1N4XSqArSzELC-UFw"></script>
-</div>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=500&t=n&d=9r_p46Ijorlwx2n68MARRySVjg1N4XSqArSzELC-UFw&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>

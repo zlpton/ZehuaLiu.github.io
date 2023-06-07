@@ -16,6 +16,7 @@ My current research interests include, but are not limited to, Semantic Communic
 
 News
 ======
+1.[May/2023] We release the code for our paper "Exploring Collaborative Distributed Diffusion-Based AI-Generated Content (AIGC) in Wireless Networks". The code is available [here](https://github.com/HongyangDu/DistributedDiffusion/tree/main#-replace-with-project-file).
 1. [Apr/2023] I had the pleasure of visiting <font color=green>Australia</font>, where I explored the beautiful campuses of the University of Technology Sydney, University of Sydney, University of New South Wales. Relaxing days!
 1. [Mar/2023] The definition of AI-Generated Content (AIGC) in our research [paper](https://arxiv.org/abs/2301.03220) is identified as the “AIGC definition” in [Google search](https://www.google.com/search?client=firefox-b-d&q=aigc+definition). Interesting ^_^
 1. [Jan/2023] I visited <font color=green>Japan</font> and had the opportunity to explore the wonderful Tohoku University. Happy to make many new friends!

@@ -14,6 +14,8 @@ I now serve as the Editor-in-Chief Assistant of [IEEE Communications Surveys and
 
 My current research interests include, but are not limited to, Semantic Communications, Generative AI, Integrated Sensing And Communications, and Metaverse. **If you are interested to collaborate with me or just have a chat**, please feel free to email me (hongyang001@e.ntu.edu.sg)! I am always happy to discuss with / learn from brilliant minds ^_^!
 
+---
+
 News
 ======
 1. [May/2023] We released the code for our paper ["Exploring Collaborative Distributed Diffusion-Based AI-Generated Content (AIGC) in Wireless Networks"](https://arxiv.org/abs/2304.03446). The code is available [here](https://github.com/HongyangDu/DistributedDiffusion/tree/main#-replace-with-project-file).
@@ -29,11 +31,14 @@ News
 
 <details>
 <summary>View older news</summary>
+
 1. [Feb/2022] Our paper titled ["Performance Analysis and Optimization for Jammer-Aided Multiantenna UAV Covert Communication"](https://hongyangdu.github.io/files/Du et al_Performance Analysis and Optimization for Jammer-Aided Multi-Antenna UAV Covert.pdf) is accepted by IEEE JSAC (IF: 13.08, Q1)!
 1. [Jan/2022] I am honored to be recognized as the <font color=green>Exemplary Reviewer of the IEEE TCOM</font>, 2021!
 1. [Aug/2021] I joined the School of Computer Science and Engineering, Nanyang Technological University (NTU) as a Ph.D. student. A new journey began!
+
 </details>
 
+---
 
 Selected Publications
 ======
@@ -57,6 +62,7 @@ Selected Publications
 1. Jiacheng Wang, **Hongyang Du**, Zengshan Tian, Dusit Niyato, Jiawen Kang, and Xuemin Shen. ["Semantic-aware sensing information transmission for metaverse: A contest theoretic approach."](https://ieeexplore.ieee.org/document/10007890) **IEEE Transactions on Wireless Communications** (2023). <font color=green>A semantic transmission framework for transmitting sensing information from the physical world to Metaverse.</font>
 1. Ismail Lotfi, **Hongyang Du**, Dusit Niyato, Sumei Sun, and Dong In Kim. ["On the Robustness of Channel Allocation in Joint Radar and Communication Systems: An Auction Approach."](https://ieeexplore.ieee.org/document/10128730) **IEEE Transactions on Mobile Computing** (2023).  <font color=green>A covert JRC system that minimizes the detection probability by wardens.</font>
 
+---
 
 Awards
 ======
@@ -65,11 +71,15 @@ Awards
 1. **Exemplary Reviewer** of the IEEE COMMUNICATIONS LETTERS, 2021 <br/><img src='/images/communlett.jpg'>
 1. **National Scholarship (China)** 2020 and 2018 
 
+---
+
 Academic Services
 ======
 1. Assistant to the Editor-in Chief, IEEE Communications Surveys & Tutorials [2022-now]
 2. TPC Member, IEEE WCNC 2022, IEEE WCNC 2023
 3. Reviewer: IEEE COMST, JSAC, TWC, TIFS, TCOM, TVT, WCM, IoTJ, and more.
+
+---
 
 ***
 

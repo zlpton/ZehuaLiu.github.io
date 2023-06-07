@@ -186,6 +186,9 @@ collections:
   submitted:
     output: true
     permalink: /:collection/:path/
+  talks
+    output: true
+    permalink: /:collection/:path/
 
 
 

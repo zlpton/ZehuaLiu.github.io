@@ -18,7 +18,7 @@ My current research interests include, but are not limited to, Semantic Communic
 
 News
 ======
-1. [May/2023] I am delighted to be invited by the Future Network of Intelligence Institute in CUHKSZ to give a talk about **Generative AI in Intelligent Networks**! The slides are available [here]().
+1. [May/2023] I am delighted to be invited by the Future Network of Intelligence Institute in CUHKSZ to give a talk about **Generative AI in Intelligent Networks**! The slides are available [here](https://hongyangdu.github.io/talks/2023/05/cuhksz/).
 1. [May/2023] We released the code for our paper ["Exploring Collaborative Distributed Diffusion-Based AI-Generated Content (AIGC) in Wireless Networks"](https://arxiv.org/abs/2304.03446). The code is available [here](https://github.com/HongyangDu/DistributedDiffusion/tree/main#-replace-with-project-file).
 1. [Apr/2023] I had the pleasure of visiting <font color=green>Australia</font>, where I explored the beautiful campuses of the University of Technology Sydney, University of Sydney, University of New South Wales. Relaxing days!
 1. [Apr/2023] Two first author JSAC papers ["AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing,"](https://arxiv.org/abs/2303.01896) and ["Semantic Communications for Wireless Sensing: RIS-aided Encoding and Self-supervised Decoding,"](https://arxiv.org/abs/2211.12727) are accepted!

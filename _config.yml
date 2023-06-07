@@ -246,8 +246,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: true
       share: true
-      comment: true
+      related: true
   # _submitted papers
   - scope:
       path: ""

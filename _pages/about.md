@@ -31,11 +31,9 @@ News
 
 <details>
 <summary>View older news</summary>
-
-1. [Feb/2022] Our paper titled ["Performance Analysis and Optimization for Jammer-Aided Multiantenna UAV Covert Communication"](https://hongyangdu.github.io/files/Du et al_Performance Analysis and Optimization for Jammer-Aided Multi-Antenna UAV Covert.pdf) is accepted by IEEE JSAC (IF: 13.08, Q1)!
-1. [Jan/2022] I am honored to be recognized as the <font color=green>Exemplary Reviewer of the IEEE TCOM</font>, 2021!
-1. [Aug/2021] I joined the School of Computer Science and Engineering, Nanyang Technological University (NTU) as a Ph.D. student. A new journey began!
-
+- [Feb/2022] Our paper titled ["Performance Analysis and Optimization for Jammer-Aided Multiantenna UAV Covert Communication"](https://hongyangdu.github.io/files/Du et al_Performance Analysis and Optimization for Jammer-Aided Multi-Antenna UAV Covert.pdf) is accepted by IEEE JSAC (IF: 13.08, Q1)!
+- [Jan/2022] I am honored to be recognized as the <font color=green>Exemplary Reviewer of the IEEE TCOM</font>, 2021!
+- [Aug/2021] I joined the School of Computer Science and Engineering, Nanyang Technological University (NTU) as a Ph.D. student. A new journey began!
 </details>
 
 ---

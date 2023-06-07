@@ -18,9 +18,12 @@ My current research interests include, but are not limited to, Semantic Communic
 
 News
 ======
+1. [May/2023] I am delighted to be invited by the Future Network of Intelligence Institute in CUHKSZ (港中深未来智联网络研究院) to give a talk about **Generative AI in Intelligent Networks**! The slides are available [here]().
 1. [May/2023] We released the code for our paper ["Exploring Collaborative Distributed Diffusion-Based AI-Generated Content (AIGC) in Wireless Networks"](https://arxiv.org/abs/2304.03446). The code is available [here](https://github.com/HongyangDu/DistributedDiffusion/tree/main#-replace-with-project-file).
 1. [Apr/2023] I had the pleasure of visiting <font color=green>Australia</font>, where I explored the beautiful campuses of the University of Technology Sydney, University of Sydney, University of New South Wales. Relaxing days!
+1. [Apr/2023] Two first author JSAC papers ["AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing,"](https://arxiv.org/abs/2303.01896) and ["Semantic Communications for Wireless Sensing: RIS-aided Encoding and Self-supervised Decoding,"](https://arxiv.org/abs/2211.12727) are accepted!
 1. [Mar/2023] The definition of AI-Generated Content (AIGC) in our research [paper](https://arxiv.org/abs/2301.03220) is identified as the “AIGC definition” in [Google search](https://www.google.com/search?client=firefox-b-d&q=aigc+definition). Interesting ^_^
+1. [Feb/2023] One first author JSAC paper ["Attention-aware Resource Allocation and QoE Analysis for Metaverse xURLLC Services,"](https://arxiv.org/abs/2208.05438) is accepted!
 1. [Jan/2023] I visited <font color=green>Japan</font> and had the opportunity to explore the wonderful Tohoku University. Happy to make many new friends!
 1. [Dec/2022] I visited [Sungkyunkwan University](https://www.skku.edu/eng/index.do) in <font color=green>Korea</font>, hosted by Prof. [Dong In Kim](http://wireless.skku.edu/english/viewforum.php?f=96). It was a memorable month!
 1. [Nov/2022] Our paper titled ["Semantic Communications for Future Internet: Fundamentals, Applications, and Challenges"](https://hongyangdu.github.io/files/Yang et al_2022_Semantic Communications for Future Internet.pdf) is accepted by IEEE COMST (IF: 33.84, Q1)!
@@ -31,9 +34,9 @@ News
 
 <details>
 <summary>View older news</summary>
-- [Feb/2022] Our paper titled ["Performance Analysis and Optimization for Jammer-Aided Multiantenna UAV Covert Communication"](https://hongyangdu.github.io/files/Du et al_Performance Analysis and Optimization for Jammer-Aided Multi-Antenna UAV Covert.pdf) is accepted by IEEE JSAC (IF: 13.08, Q1)!
-- [Jan/2022] I am honored to be recognized as the <font color=green>Exemplary Reviewer of the IEEE TCOM</font>, 2021!
-- [Aug/2021] I joined the School of Computer Science and Engineering, Nanyang Technological University (NTU) as a Ph.D. student. A new journey began!
+- [Feb/2022] Our paper titled ["Performance Analysis and Optimization for Jammer-Aided Multiantenna UAV Covert Communication"](https://hongyangdu.github.io/files/Du et al_Performance Analysis and Optimization for Jammer-Aided Multi-Antenna UAV Covert.pdf) is accepted by IEEE JSAC (IF: 13.08, Q1)!<br>
+- [Jan/2022] I am honored to be recognized as the <font color=green>Exemplary Reviewer of the IEEE TCOM</font>, 2021!<br>
+- [Aug/2021] I joined the School of Computer Science and Engineering, Nanyang Technological University (NTU) as a Ph.D. student. A new journey began!<br>
 </details>
 
 ---

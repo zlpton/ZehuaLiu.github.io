@@ -242,7 +242,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: posts
+      type: talks
     values:
       layout: single
       author_profile: true

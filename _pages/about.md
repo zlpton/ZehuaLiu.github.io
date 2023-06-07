@@ -26,9 +26,14 @@ News
 1. [Oct/2022] Our paper titled ["Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis"](https://hongyangdu.github.io/files/Kang et al_2022_Personalized Saliency in Task-Oriented Semantic Communications.pdf) is accepted by IEEE JSAC (IF: 13.08, Q1)!
 1. [Jun/2022] I visited [Chiang Mai University](https://www.cmu.ac.th/en/) in <font color=green>Thailand</font>, hosted by Prof. [Maggie](https://scholar.google.com/citations?hl=zh-CN&user=iirwtGkAAAAJ). Very happy time!
 1. [Mar/2022] Our paper titled ["Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications"](http://hongyangdu.github.io/files/Du et al_2022_Performance and Optimization of Reconfigurable Intelligent Surface Aided THz.pdf) is accepted by IEEE TCOM! 
+
+<details>
+<summary>View older news</summary>
 1. [Feb/2022] Our paper titled ["Performance Analysis and Optimization for Jammer-Aided Multiantenna UAV Covert Communication"](https://hongyangdu.github.io/files/Du et al_Performance Analysis and Optimization for Jammer-Aided Multi-Antenna UAV Covert.pdf) is accepted by IEEE JSAC (IF: 13.08, Q1)!
 1. [Jan/2022] I am honored to be recognized as the <font color=green>Exemplary Reviewer of the IEEE TCOM</font>, 2021!
 1. [Aug/2021] I joined the School of Computer Science and Engineering, Nanyang Technological University (NTU) as a Ph.D. student. A new journey began!
+</details>
+
 
 Selected Publications
 ======

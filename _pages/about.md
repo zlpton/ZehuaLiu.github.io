@@ -12,7 +12,9 @@ I am pursuing the Ph.D. degree with the School of Computer Science and Engineeri
 
 I now serve as the Editor-in-Chief Assistant of [IEEE Communications Surveys and Tutorials](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739) (IEEE COMST). In 2021, the impact factor of IEEE COMST reached 33.84, which is the highest one in all IEEE journals/magazines. To further promote IEEE COMST, I am helping to run some social accounts, including Linkedin (@IEEE Communications Surveys And Tutorials), Twitter (@IEEECOMST), and WeChat Account (@IEEECOMST). Thanks for following!
 
-My current research interests include, but are not limited to, Semantic Communications, Generative AI, Integrated Sensing And Communications, and Metaverse. **If you are interested to collaborate with me or just have a chat**, please feel free to email me (hongyang001@e.ntu.edu.sg)! I am always happy to discuss with / learn from brilliant minds ^_^!
+My current research interests include, but are not limited to, Semantic Communications, Resource Allocation, Integrated Sensing And Communications, and Metaverse. Now I am working actively on **Generative AI in Intelligent networks**. Please refer to this [repository](https://hongyangdu.github.io/posts/3000/01/blog-post-6/) for the latest updates from our group!
+
+**If you are interested to collaborate with me or just have a chat**, please feel free to email me (hongyang001@e.ntu.edu.sg)! I am always happy to discuss with / learn from brilliant minds ^_^!
 
 ---
 
@@ -22,7 +24,7 @@ News
 1. [May/2023] We released the code for our paper ["Exploring Collaborative Distributed Diffusion-Based AI-Generated Content (AIGC) in Wireless Networks"](https://arxiv.org/abs/2304.03446). The code is available [here](https://github.com/HongyangDu/DistributedDiffusion/tree/main#-replace-with-project-file).
 1. [Apr/2023] I had the pleasure of visiting <font color=green>Australia</font>, where I explored the beautiful campuses of the University of Technology Sydney, University of Sydney, University of New South Wales. Relaxing days!
 1. [Apr/2023] Two first author JSAC papers ["AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing,"](https://arxiv.org/abs/2303.01896) and ["Semantic Communications for Wireless Sensing: RIS-aided Encoding and Self-supervised Decoding,"](https://arxiv.org/abs/2211.12727) are accepted!
-1. [Mar/2023] The definition of AI-Generated Content (AIGC) in our research [paper](https://arxiv.org/abs/2301.03220) is identified as the “AIGC definition” in [Google search](https://www.google.com/search?client=firefox-b-d&q=aigc+definition). Interesting ^_^
+1. [Mar/2023] The definition of AI-Generated Content (AIGC) in our research [paper](https://arxiv.org/abs/2301.03220) is identified as the “AIGC definition” in [Google search](https://hongyangdu.github.io/posts/3000/01/blog-post-5/). Interesting ^_^
 1. [Feb/2023] One first author JSAC paper ["Attention-aware Resource Allocation and QoE Analysis for Metaverse xURLLC Services,"](https://arxiv.org/abs/2208.05438) is accepted!
 1. [Jan/2023] I visited <font color=green>Japan</font> and had the opportunity to explore the wonderful Tohoku University. Happy to make many new friends!
 1. [Dec/2022] I visited [Sungkyunkwan University](https://www.skku.edu/eng/index.do) in <font color=green>Korea</font>, hosted by Prof. [Dong In Kim](http://wireless.skku.edu/english/viewforum.php?f=96). It was a memorable month!

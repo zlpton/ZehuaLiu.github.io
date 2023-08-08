@@ -80,8 +80,12 @@ Awards
 Academic Services
 ======
 1. Assistant to the Editor-in Chief, IEEE Communications Surveys & Tutorials [2022-now]
-2. TPC Member, IEEE WCNC 2022, IEEE WCNC 2023
-3. Reviewer: IEEE COMST, JSAC, TWC, TIFS, TCOM, TVT, WCM, IoTJ, and more.
+1. TPC Member, VTC2023-Fall: Hong Kong, Machine Learning and AI for Communications
+1. TPC Member, VTC2023-Fall: Hong Kong, Electric Vehicles, Vehicular Electronics and Intelligent Transportation
+1. TPC Member, VTC2023-Fall: Hong Kong, Recent Results and Workshops
+1. TPC Member, IEEE WCNC 2023, Track 3 – Machine Learning and Optimization for Wireless Systems
+1. TPC Member, IEEE WCNC 2022, Track 2 – Networking and MAC
+1. Reviewer: IEEE COMST, JSAC, TMC, TWC, TIFS, TCOM, TVT, WCM, IoTJ, and more.
 
 ---
 

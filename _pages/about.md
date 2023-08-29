@@ -74,7 +74,10 @@ Awards
 1. **IEEE Daniel E. Nobel Fellowship Award**, from **IEEE Vehicular Technology Society**, 2022 (Only one person is selected globally each year.) <br/><img src='/images/VTS.jpg'>
 1. **Exemplary Reviewer** of the IEEE TRANSACTIONS ON COMMUNICATIONS, 2021 <br/><img src='/images/ReTCOM.jpg'>
 1. **Exemplary Reviewer** of the IEEE COMMUNICATIONS LETTERS, 2021 <br/><img src='/images/communlett.jpg'>
-1. **National Scholarship (China)** 2020 and 2018 
+1. **Chinese Government Award for Outstanding Students Abroad** (Prestigious Award presented to 650 Ph.D. students worldwide each year), 2022
+1. **Research Scholarship**, NTU, 2021-2025
+1. **National Scholarship**, Ministry of Education of China, 2020
+1. **National Scholarship**, Ministry of Education of China, 2018
 
 ---
 

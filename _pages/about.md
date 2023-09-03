@@ -14,7 +14,7 @@ I now serve as the Editor-in-Chief Assistant of [IEEE Communications Surveys and
 
 My research is primarily centered around the utilization of **Generative AI in Intelligent networks**. Our key objective is to explore <font color=green>"how the intelligent networks can support various AI-Generated Content (AIGC) services"</font>, and <font color=green>"how generative AI as a cutting-edge machine learning tool can be used to improve the intelligent network performance, security, and reliability"</font>. This involves exploring the integration of various networking methodologies, including Semantic Communications, Resource Allocation, Integrated Sensing and Communications, and Metaverse. Please refer to this [repository](https://hongyangdu.github.io/posts/3000/01/blog-post-6/) for the latest updates of Generative AI-related papers from our group!
 
-**If you are interested to collaborate with me or just have a chat**, please feel free to email me (hongyang001@e.ntu.edu.sg)! I am always happy to discuss with / learn from brilliant minds ^_^!
+**If you are interested to collaborate with me or just have a chat**, please feel free to email me (hongyang001@e.ntu.edu.sg) or add my WeChat (oo1oooo2)! I am always happy to discuss with / learn from brilliant minds ^_^!
 
 ---
 

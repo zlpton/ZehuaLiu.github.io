@@ -1,5 +1,5 @@
 ---
-title: 'Generative AI in Intelligent Networks'
+title: 'Generative AI-aided Joint Training-free Secure Semantic Communications via Multi-modal Prompts'
 date: 2023-09-17
 permalink: /talks/2023/09/multimodal/
 tags:

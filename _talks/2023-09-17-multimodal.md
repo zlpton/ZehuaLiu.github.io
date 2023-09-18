@@ -11,6 +11,41 @@ tags:
 How to use multi-modal prompts to achieve generative AI-aided semantic communications
 
 
+======
+
+Slides:
+------
+ 
+<br/><img src='/images/MULT/slide1 (1).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (2).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (3).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (4).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (5).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (6).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (7).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (8).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (9).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (10).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (11).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (12).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (13).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (14).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (15).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (16).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (17).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (18).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (19).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (20).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (21).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (22).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (23).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (24).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (25).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (26).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (27).JPG' width="500">
+<br/><img src='/images/MULT/slide1 (28).JPG' width="500">
+
+
 Related paper:
 
 ```
@@ -21,37 +56,3 @@ Related paper:
   year={2023}
 }
 ```
-
-======
-
-Slides:
-------
- 
-<br/><img src='/images/MULT/slide1 (1).png' width="500">
-<br/><img src='/images/MULT/slide1 (2).png' width="500">
-<br/><img src='/images/MULT/slide1 (3).png' width="500">
-<br/><img src='/images/MULT/slide1 (4).png' width="500">
-<br/><img src='/images/MULT/slide1 (5).png' width="500">
-<br/><img src='/images/MULT/slide1 (6).png' width="500">
-<br/><img src='/images/MULT/slide1 (7).png' width="500">
-<br/><img src='/images/MULT/slide1 (8).png' width="500">
-<br/><img src='/images/MULT/slide1 (9).png' width="500">
-<br/><img src='/images/MULT/slide1 (10).png' width="500">
-<br/><img src='/images/MULT/slide1 (11).png' width="500">
-<br/><img src='/images/MULT/slide1 (12).png' width="500">
-<br/><img src='/images/MULT/slide1 (13).png' width="500">
-<br/><img src='/images/MULT/slide1 (14).png' width="500">
-<br/><img src='/images/MULT/slide1 (15).png' width="500">
-<br/><img src='/images/MULT/slide1 (16).png' width="500">
-<br/><img src='/images/MULT/slide1 (17).png' width="500">
-<br/><img src='/images/MULT/slide1 (18).png' width="500">
-<br/><img src='/images/MULT/slide1 (19).png' width="500">
-<br/><img src='/images/MULT/slide1 (20).png' width="500">
-<br/><img src='/images/MULT/slide1 (21).png' width="500">
-<br/><img src='/images/MULT/slide1 (22).png' width="500">
-<br/><img src='/images/MULT/slide1 (23).png' width="500">
-<br/><img src='/images/MULT/slide1 (24).png' width="500">
-<br/><img src='/images/MULT/slide1 (25).png' width="500">
-<br/><img src='/images/MULT/slide1 (26).png' width="500">
-<br/><img src='/images/MULT/slide1 (27).png' width="500">
-<br/><img src='/images/MULT/slide1 (28).png' width="500">

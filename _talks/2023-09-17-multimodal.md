@@ -6,6 +6,11 @@ tags:
   - Multi-modal 
   - Generative AI
 ---
+
+
+How to use multi-modal prompts to achieve generative AI-aided semantic communications
+
+
 Related paper:
 
 ```

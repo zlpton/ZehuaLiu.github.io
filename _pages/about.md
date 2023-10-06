@@ -20,6 +20,8 @@ My research is primarily centered around the utilization of **Generative AI in I
 
 News
 ======
+1. [Oct/2023] We released the code for our *generative-AI for decition* paper ["Generative AI-aided Optimization for AI-Generated Content (AIGC) Services in Edge Networks"](https://arxiv.org/abs/2308.05384). The code is available [here](https://github.com/Lizonghang/AGOD).
+1. [Sept/2023] We released the code for our *generative diffusion model tutorial* paper ["Beyond deep reinforcement learning: A tutorial on generative diffusion models in network optimization"](https://arxiv.org/abs/2308.05384). The code is available [here](https://github.com/HongyangDu/GDMOPT).
 1. [Jun/2023] We released the code for our IEEE JSAC paper ["AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing"](https://arxiv.org/abs/2303.01896). The code is available [here](https://github.com/HongyangDu/SemSharing).
 1. [Jun/2023] We released the code for our IEEE JSAC paper ["Attention-aware Resource Allocation and QoE Analysis for Metaverse xURLLC Services"](https://arxiv.org/abs/2208.05438). The code is available [here](https://github.com/HongyangDu/AttentionQoE).
 1. [Jun/2023] It's a great honour to have been invited by [Queen Mary University of London](https://www.qmul.ac.uk/) to give a talk about <font color=green>Exploring the Role of Generative AI in Wireless Networks: Applications, Optimization, and Challenges</font>!
